@@ -13,142 +13,210 @@
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px;
+            background: #f5f5f5;
             color: #333;
+            height: 100vh;
+            overflow: hidden;
         }
 
-        .container {
-            max-width: 900px;
+        /* HEADER */
+        .app-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px 30px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            z-index: 100;
+        }
+
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1400px;
             margin: 0 auto;
         }
 
-        .header {
-            text-align: center;
-            color: white;
-            margin-bottom: 40px;
-            animation: fadeIn 0.8s ease-in;
+        .header-left h1 {
+            font-size: 1.8em;
+            margin-bottom: 5px;
         }
 
-        .header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-        }
-
-        .header p {
-            font-size: 1.1em;
+        .header-left p {
+            font-size: 0.9em;
             opacity: 0.9;
         }
 
-        .principles {
+        .header-stats {
+            text-align: right;
+            font-size: 0.9em;
+        }
+
+        /* MAIN LAYOUT */
+        .main-content {
+            display: flex;
+            height: calc(100vh - 90px);
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        /* LEFT SIDEBAR - FIXED NAVIGATION */
+        .left-sidebar {
+            width: 280px;
             background: white;
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 30px;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            border-right: 1px solid #e0e0e0;
+            overflow-y: auto;
+            box-shadow: 2px 0 8px rgba(0, 0, 0, 0.08);
         }
 
-        .principles h3 {
+        .nav-section {
+            padding: 15px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .nav-section-title {
+            padding: 10px 20px;
+            font-weight: bold;
             color: #667eea;
-            margin-bottom: 15px;
-            font-size: 1.3em;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
 
-        .principles ul {
-            list-style: none;
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 10px;
-        }
-
-        .principles li {
-            padding: 8px 12px;
-            background: #f5f5f5;
-            border-left: 4px solid #667eea;
+        .nav-item {
+            padding: 12px 20px;
+            cursor: pointer;
+            border-left: 4px solid transparent;
+            transition: all 0.3s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
             font-size: 0.95em;
         }
 
-        .words-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 25px;
-            margin-bottom: 40px;
+        .nav-item:hover {
+            background: #f8f9ff;
+            border-left-color: #667eea;
+            color: #667eea;
         }
 
-        @media (max-width: 768px) {
-            .words-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .principles ul {
-                grid-template-columns: 1fr;
-            }
+        .nav-item.active {
+            background: linear-gradient(90deg, #667eea15, transparent);
+            border-left-color: #667eea;
+            font-weight: 600;
+            color: #667eea;
         }
 
-        .word-card {
+        .nav-item-number {
+            font-size: 0.8em;
+            background: #f0f0f0;
+            padding: 2px 8px;
+            border-radius: 10px;
+            color: #999;
+        }
+
+        .nav-item.active .nav-item-number {
+            background: #667eea;
+            color: white;
+        }
+
+        /* RIGHT CONTENT AREA */
+        .right-content {
+            flex: 1;
             background: white;
-            border-radius: 12px;
-            padding: 20px;
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
-            transition: transform 0.3s, box-shadow 0.3s;
-            animation: slideIn 0.6s ease-out;
+            overflow-y: auto;
+            padding: 0;
         }
 
-        .word-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+        .content-container {
+            padding: 40px 50px;
         }
 
-        .word-header {
-            border-bottom: 3px solid #667eea;
-            padding-bottom: 12px;
+        .word-display {
+            display: none;
+            animation: fadeInRight 0.4s ease-out;
+        }
+
+        .word-display.active {
+            display: block;
+        }
+
+        /* WELCOME SCREEN */
+        .welcome-screen {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            text-align: center;
+            color: #999;
+        }
+
+        .welcome-screen h2 {
+            font-size: 2.2em;
+            color: #667eea;
             margin-bottom: 15px;
         }
 
-        .word-title {
-            font-size: 2em;
-            font-weight: bold;
-            color: #667eea;
-            margin-bottom: 8px;
+        .welcome-screen p {
+            font-size: 1.1em;
+            margin-bottom: 10px;
+            color: #aaa;
         }
 
-        .pronunciation {
+        /* WORD DISPLAY */
+        .word-display-header {
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+
+        .word-display-title {
+            font-size: 3em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+            letter-spacing: 2px;
+        }
+
+        .word-display-id {
             font-size: 0.9em;
             color: #999;
             font-style: italic;
-            margin-bottom: 10px;
         }
 
-        .indpol-row {
+        .pronunciation-guide {
+            font-size: 1.1em;
+            color: #667eea;
+            margin-top: 8px;
+            font-weight: 500;
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+        }
+
+        .section-box {
             background: #f9f9f9;
-            padding: 10px;
-            border-radius: 6px;
-            margin-bottom: 10px;
-            border-left: 4px solid #764ba2;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 5px solid #667eea;
         }
 
-        .indpol-label {
+        .section-title {
             font-weight: bold;
-            color: #764ba2;
-            font-size: 0.9em;
-        }
-
-        .indpol-text {
-            font-size: 1.2em;
-            color: #333;
-            margin-left: 10px;
-        }
-
-        .meaning-section {
+            color: #667eea;
             margin-bottom: 15px;
+            font-size: 0.95em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
 
         .meaning-row {
             display: flex;
             justify-content: space-between;
-            padding: 8px 0;
+            padding: 10px 0;
             border-bottom: 1px solid #eee;
             font-size: 0.95em;
         }
@@ -158,74 +226,78 @@
         }
 
         .meaning-label {
-            font-weight: bold;
-            color: #667eea;
-            min-width: 100px;
+            font-weight: 600;
+            color: #555;
+            min-width: 120px;
         }
 
-        .meaning-text {
-            color: #555;
+        .meaning-value {
+            color: #333;
+            font-weight: 500;
             text-align: right;
         }
 
-        .memory-trick {
+        /* INDPOL SECTION */
+        .indpol-section {
+            margin-top: 30px;
+            background: linear-gradient(135deg, #f5f7ff 0%, #f9f5ff 100%);
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 5px solid #764ba2;
+        }
+
+        .indpol-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 12px 0;
+            border-bottom: 1px solid rgba(102, 126, 234, 0.2);
+            font-size: 1em;
+        }
+
+        .indpol-row:last-child {
+            border-bottom: none;
+        }
+
+        .indpol-label {
+            font-weight: 600;
+            color: #764ba2;
+        }
+
+        .indpol-text {
+            font-size: 1.2em;
+            color: #333;
+            font-weight: 500;
+        }
+
+        /* MEMORY TRICK */
+        .memory-trick-box {
+            margin-top: 30px;
             background: linear-gradient(135deg, #fff5e6 0%, #ffe6f0 100%);
             border-left: 5px solid #ff9800;
-            padding: 15px;
-            border-radius: 8px;
-            margin-top: 15px;
-            font-size: 0.95em;
-            line-height: 1.6;
+            padding: 25px;
+            border-radius: 10px;
+            font-size: 0.98em;
+            line-height: 1.8;
             color: #333;
-            font-family: 'Courier New', monospace;
         }
 
-        .memory-trick p {
-            margin-bottom: 10px;
-        }
-
-        .memory-trick em {
-            background: #fff;
-            padding: 2px 6px;
-            border-radius: 3px;
-            font-style: normal;
+        .memory-trick-title {
+            font-weight: bold;
             color: #ff9800;
+            margin-bottom: 15px;
+            font-size: 1.05em;
         }
 
-        .word-count {
-            text-align: center;
-            color: #666;
-            font-size: 0.9em;
-            margin-top: 30px;
-            padding-top: 20px;
-            border-top: 2px solid rgba(255, 255, 255, 0.3);
+        .memory-trick-content {
+            white-space: pre-wrap;
+            font-family: 'Segoe UI', sans-serif;
         }
 
-        .level-badge {
-            display: inline-block;
-            background: #667eea;
-            color: white;
-            padding: 4px 10px;
-            border-radius: 20px;
-            font-size: 0.8em;
-            margin-left: 10px;
-        }
-
-        @keyframes fadeIn {
+        /* ANIMATIONS */
+        @keyframes fadeInRight {
             from {
                 opacity: 0;
-                transform: translateY(-20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        @keyframes slideIn {
-            from {
-                opacity: 0;
-                transform: translateX(-20px);
+                transform: translateX(20px);
             }
             to {
                 opacity: 1;
@@ -233,101 +305,239 @@
             }
         }
 
-        .emoji {
-            font-size: 1.2em;
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        /* SCROLLBAR */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #667eea;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #764ba2;
+        }
+
+        /* RESPONSIVE */
+        @media (max-width: 1024px) {
+            .grid-2 {
+                grid-template-columns: 1fr;
+            }
+
+            .left-sidebar {
+                width: 240px;
+            }
+
+            .content-container {
+                padding: 30px 35px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .main-content {
+                flex-direction: column;
+                height: auto;
+            }
+
+            .left-sidebar {
+                width: 100%;
+                border-right: none;
+                border-bottom: 1px solid #e0e0e0;
+                max-height: 200px;
+                display: flex;
+                overflow-x: auto;
+            }
+
+            .nav-section {
+                display: flex;
+                border-bottom: none;
+                border-right: 1px solid #f0f0f0;
+            }
+
+            .right-content {
+                max-height: 600px;
+            }
+
+            .content-container {
+                padding: 20px;
+            }
+
+            .word-display-title {
+                font-size: 2em;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <h1>🧠 Indpol Memory System</h1>
-            <p>Harry Lorayne Method for Polish Learning</p>
-            <p style="font-size: 0.95em; margin-top: 10px;">फPolish यादों का सबसे vivid, funny तरीका!</p>
+    <!-- HEADER -->
+    <div class="app-header">
+        <div class="header-content">
+            <div class="header-left">
+                <h1>🧠 Indpol Memory System</h1>
+                <p>Harry Lorayne Method for Polish Learning</p>
+            </div>
+            <div class="header-stats">
+                <div>📚 A1-A2 Level</div>
+                <div style="font-size: 1.1em; margin-top: 5px;">20 Words</div>
+            </div>
         </div>
+    </div>
 
-        <div class="principles">
-            <h3>📚 Harry Lorayne के 6 Golden Principles:</h3>
-            <ul>
-                <li><strong>Sound Association</strong> - Sound को Hindi/Indian word से match करो</li>
-                <li><strong>Vivid Visualization</strong> - Crystal clear mental image</li>
-                <li><strong>Ridiculous & Funny</strong> - Absurd जितना बेहतर!</li>
-                <li><strong>Action & Movement</strong> - कुछ हो रहा हो, static नहीं</li>
-                <li><strong>Exaggeration</strong> - बड़ा, weird, over-the-top</li>
-                <li><strong>Indian Context</strong> - Bollywood, daily life, Indian names</li>
-            </ul>
-        </div>
+    <!-- MAIN LAYOUT -->
+    <div class="main-content">
+        <!-- LEFT SIDEBAR -->
+        <div class="left-sidebar" id="sidebar"></div>
 
-        <div id="words-container" class="words-grid"></div>
-
-        <div class="word-count">
-            <p>✅ Total: 20 A1-A2 Level Words | Level: <span class="level-badge">Beginner</span></p>
-            <p style="margin-top: 10px; font-size: 0.85em;">हर word को एक बार पढ़ो और कभी नहीं भूलोगे! 🎯</p>
+        <!-- RIGHT CONTENT -->
+        <div class="right-content">
+            <div class="content-container">
+                <div class="welcome-screen" id="welcomeScreen">
+                    <h2>🧠 Welcome to Memory System</h2>
+                    <p>Select a word from the left to start learning</p>
+                    <p style="margin-top: 20px; font-size: 0.9em;">बाईं ओर से एक शब्द चुनो 👈</p>
+                </div>
+                <div id="wordsDisplay"></div>
+            </div>
         </div>
     </div>
 
     <script>
+        let allWords = [];
+        let currentWordIndex = -1;
+
         async function loadMemoryWords() {
             try {
                 const response = await fetch('../data/indpol_memory_system_a1a2.json');
                 const data = await response.json();
+                allWords = data.words;
                 
-                const container = document.getElementById('words-container');
+                buildSidebar();
                 
-                data.words.forEach((word, index) => {
-                    const card = document.createElement('div');
-                    card.className = 'word-card';
-                    card.innerHTML = `
-                        <div class="word-header">
-                            <div class="word-title">${word.polish}</div>
-                            <div class="pronunciation">/${word.pronunciation_guide}/</div>
-                        </div>
+            } catch (error) {
+                console.error('Error loading memory words:', error);
+                document.getElementById('sidebar').innerHTML = 
+                    '<p style="padding: 20px; color: red;">Error loading data. Check file path.</p>';
+            }
+        }
 
+        function buildSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            sidebar.innerHTML = '<div class="nav-section"><div class="nav-section-title">📚 All Words</div></div>';
+            
+            const section = sidebar.querySelector('.nav-section');
+            
+            allWords.forEach((word, index) => {
+                const item = document.createElement('div');
+                item.className = 'nav-item';
+                item.innerHTML = `
+                    <span>${word.polish}</span>
+                    <span class="nav-item-number">${index + 1}</span>
+                `;
+                
+                item.addEventListener('click', () => {
+                    selectWord(index);
+                });
+                
+                section.appendChild(item);
+            });
+        }
+
+        function selectWord(index) {
+            currentWordIndex = index;
+            
+            // Update active state in sidebar
+            document.querySelectorAll('.nav-item').forEach((item, i) => {
+                item.classList.toggle('active', i === index);
+            });
+            
+            // Hide welcome screen
+            document.getElementById('welcomeScreen').style.display = 'none';
+            
+            // Display word
+            displayWord(index);
+        }
+
+        function displayWord(index) {
+            const word = allWords[index];
+            const displaysContainer = document.getElementById('wordsDisplay');
+            
+            displaysContainer.innerHTML = `
+                <div class="word-display active">
+                    <!-- HEADER -->
+                    <div class="word-display-header">
+                        <div class="word-display-id">Word #${index + 1} of ${allWords.length}</div>
+                        <div class="word-display-title">${word.polish}</div>
+                        <div class="pronunciation-guide">/${word.pronunciation_guide}/</div>
+                    </div>
+
+                    <!-- INDPOL SECTION -->
+                    <div class="indpol-section">
+                        <div class="section-title">🇮🇳 Pronunciation</div>
                         <div class="indpol-row">
-                            <div>
-                                <span class="indpol-label">🇮🇳 Indpol-Hindi:</span>
-                                <span class="indpol-text">${word.indpol_hindi}</span>
-                            </div>
+                            <span class="indpol-label">Hindi Script:</span>
+                            <span class="indpol-text">${word.indpol_hindi}</span>
                         </div>
-
                         <div class="indpol-row">
-                            <div>
-                                <span class="indpol-label">🇮🇳 Indpol-Marathi:</span>
-                                <span class="indpol-text">${word.indpol_marathi}</span>
-                            </div>
+                            <span class="indpol-label">Marathi Script:</span>
+                            <span class="indpol-text">${word.indpol_marathi}</span>
                         </div>
+                    </div>
 
-                        <div class="meaning-section">
+                    <!-- MEANINGS -->
+                    <div class="grid-2" style="margin-top: 30px;">
+                        <div class="section-box">
+                            <div class="section-title">📖 Meanings</div>
                             <div class="meaning-row">
-                                <span class="meaning-label">Hindi Meaning:</span>
-                                <span class="meaning-text"><strong>${word.hindi_meaning}</strong></span>
+                                <span class="meaning-label">Hindi:</span>
+                                <span class="meaning-value">${word.hindi_meaning}</span>
                             </div>
                             <div class="meaning-row">
-                                <span class="meaning-label">Marathi Meaning:</span>
-                                <span class="meaning-text"><strong>${word.marathi_meaning}</strong></span>
+                                <span class="meaning-label">Marathi:</span>
+                                <span class="meaning-value">${word.marathi_meaning}</span>
                             </div>
                             <div class="meaning-row">
                                 <span class="meaning-label">English:</span>
-                                <span class="meaning-text"><strong>${word.english}</strong></span>
+                                <span class="meaning-value">${word.english}</span>
                             </div>
                         </div>
 
-                        <div class="memory-trick">
-                            <pre style="white-space: pre-wrap; font-family: inherit;">${word.memory_trick}</pre>
+                        <!-- NAVIGATION BUTTONS -->
+                        <div style="display: flex; flex-direction: column; gap: 10px;">
+                            <button onclick="selectWord(${Math.max(0, index - 1)})" 
+                                    style="padding: 12px 20px; background: #667eea; color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; ${index === 0 ? 'opacity: 0.5; cursor: not-allowed;' : ''}">
+                                ⬅️ Previous
+                            </button>
+                            <button onclick="selectWord(${Math.min(allWords.length - 1, index + 1)})" 
+                                    style="padding: 12px 20px; background: #667eea; color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; ${index === allWords.length - 1 ? 'opacity: 0.5; cursor: not-allowed;' : ''}">
+                                Next ➡️
+                            </button>
+                            <div style="background: #f0f0f0; padding: 10px; border-radius: 8px; text-align: center; font-weight: 600; color: #667eea;">
+                                ${index + 1} / ${allWords.length}
+                            </div>
                         </div>
-                    `;
-                    container.appendChild(card);
-                });
+                    </div>
 
-                // Update word count
-                document.querySelector('.word-count p').textContent = 
-                    `✅ Total: ${data.words.length} ${data.meta.level} Words | Level: ${data.meta.level}`;
-
-            } catch (error) {
-                console.error('Error loading memory words:', error);
-                document.getElementById('words-container').innerHTML = 
-                    '<p style="color: white; padding: 20px;">Error loading data. Please check the file path.</p>';
-            }
+                    <!-- MEMORY TRICK -->
+                    <div class="memory-trick-box">
+                        <div class="memory-trick-title">🧠 Harry Lorayne Memory Trick:</div>
+                        <div class="memory-trick-content">${word.memory_trick}</div>
+                    </div>
+                </div>
+            `;
         }
 
         document.addEventListener('DOMContentLoaded', loadMemoryWords);
