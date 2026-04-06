@@ -302,6 +302,7 @@ const tenseButtons = [...document.querySelectorAll(".tense-btn")];
 const tabButtons = [...document.querySelectorAll(".tab-btn")];
 const learningView = document.getElementById("learningView");
 const dictionaryView = document.getElementById("dictionaryView");
+const memoryView = document.getElementById("memoryView");
 const storyView = document.getElementById("storyView");
 const arrowPastBtn = document.getElementById("arrowPast");
 const arrowPresentBtn = document.getElementById("arrowPresent");
@@ -574,10 +575,12 @@ function playPolishAudio() {
 function switchTab(target) {
   const isLearning = target === "learning";
   const isDictionary = target === "dictionary";
+  const isMemory = target === "memory";
   const isStory = target === "story";
 
   learningView.classList.toggle("hidden", !isLearning);
   dictionaryView.classList.toggle("hidden", !isDictionary);
+  memoryView.classList.toggle("hidden", !isMemory);
   storyView.classList.toggle("hidden", !isStory);
 
   tabButtons.forEach((btn) => {
@@ -959,9 +962,128 @@ async function loadPolishLexicon() {
   }
 }
 
+// Memory System Functions
+async function loadMemorySystem() {
+  try {
+    const response = await fetch('data/indpol_memory_system_a1a2.json');
+    if (!response.ok) throw new Error('Failed to load memory system');
+    
+    const data = await response.json();
+    allMemoryWords = data.words;
+    buildMemorySidebar();
+    console.log(`✓ Loaded ${allMemoryWords.length} memory words`);
+    return true;
+  } catch (error) {
+    console.warn('Could not load memory system:', error.message);
+    return false;
+  }
+}
+
+function buildMemorySidebar() {
+  const sidebar = document.getElementById('memorySidebar');
+  sidebar.innerHTML = '';
+  
+  const section = document.createElement('div');
+  section.className = 'nav-section';
+  const title = document.createElement('div');
+  title.className = 'nav-section-title';
+  title.textContent = '📚 All Words';
+  section.appendChild(title);
+  
+  allMemoryWords.forEach((word, index) => {
+    const item = document.createElement('div');
+    item.className = 'nav-item';
+    item.innerHTML = `<span>${word.polish}</span><span class="nav-item-number">${index + 1}</span>`;
+    item.addEventListener('click', () => selectMemoryWord(index));
+    section.appendChild(item);
+  });
+  
+  sidebar.appendChild(section);
+}
+
+function selectMemoryWord(index) {
+  currentMemoryWordIndex = index;
+  
+  // Update active state in sidebar
+  document.querySelectorAll('#memorySidebar .nav-item').forEach((item, i) => {
+    item.classList.toggle('active', i === index);
+  });
+  
+  // Hide welcome screen
+  document.getElementById('memoryWelcome').style.display = 'none';
+  
+  // Display word
+  displayMemoryWord(index);
+}
+
+function displayMemoryWord(index) {
+  const word = allMemoryWords[index];
+  const display = document.getElementById('memoryWordDisplay');
+  
+  display.innerHTML = `
+    <div class="word-display active">
+      <div class="word-display-header">
+        <div class="word-display-id">Word #${index + 1} of ${allMemoryWords.length}</div>
+        <div class="word-display-title">${word.polish}</div>
+        <div class="pronunciation-guide">/${word.pronunciation_guide}/</div>
+      </div>
+
+      <div class="indpol-section">
+        <div class="section-title">🇮🇳 Pronunciation</div>
+        <div class="indpol-row">
+          <span class="indpol-label">Hindi Script:</span>
+          <span class="indpol-text">${word.indpol_hindi}</span>
+        </div>
+        <div class="indpol-row">
+          <span class="indpol-label">Marathi Script:</span>
+          <span class="indpol-text">${word.indpol_marathi}</span>
+        </div>
+      </div>
+
+      <div class="grid-2" style="margin-top: 30px;">
+        <div class="section-box">
+          <div class="section-title">📖 Meanings</div>
+          <div class="meaning-row">
+            <span class="meaning-label">Hindi:</span>
+            <span class="meaning-value">${word.hindi_meaning}</span>
+          </div>
+          <div class="meaning-row">
+            <span class="meaning-label">Marathi:</span>
+            <span class="meaning-value">${word.marathi_meaning}</span>
+          </div>
+          <div class="meaning-row">
+            <span class="meaning-label">English:</span>
+            <span class="meaning-value">${word.english}</span>
+          </div>
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 10px;">
+          <button onclick="selectMemoryWord(${Math.max(0, index - 1)})" 
+                  style="padding: 12px 20px; background: #667eea; color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; ${index === 0 ? 'opacity: 0.5; cursor: not-allowed;' : ''}">
+            ⬅️ Previous
+          </button>
+          <button onclick="selectMemoryWord(${Math.min(allMemoryWords.length - 1, index + 1)})" 
+                  style="padding: 12px 20px; background: #667eea; color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; ${index === allMemoryWords.length - 1 ? 'opacity: 0.5; cursor: not-allowed;' : ''}">
+            Next ➡️
+          </button>
+          <div style="background: #f0f0f0; padding: 10px; border-radius: 8px; text-align: center; font-weight: 600; color: #667eea;">
+            ${index + 1} / ${allMemoryWords.length}
+          </div>
+        </div>
+      </div>
+
+      <div class="memory-trick-box">
+        <div class="memory-trick-title">🧠 Harry Lorayne Memory Trick:</div>
+        <div class="memory-trick-content">${word.memory_trick}</div>
+      </div>
+    </div>
+  `;
+}
+
 // Initialize app
 (async function() {
   await loadPolishLexicon();
+  await loadMemorySystem();
   buildWordPanel();
   updateWordCountBadge();
   renderStoryLibrary();

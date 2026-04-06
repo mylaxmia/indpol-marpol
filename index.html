@@ -22,6 +22,7 @@
       <div class="tab-row" role="tablist" aria-label="Indpol Sections">
         <button class="tab-btn active" id="tabLearning" data-tab="learning" role="tab" aria-selected="true">Learning Studio</button>
         <button class="tab-btn" id="tabDictionary" data-tab="dictionary" role="tab" aria-selected="false">Dictionary</button>
+        <button class="tab-btn" id="tabMemory" data-tab="memory" role="tab" aria-selected="false">🧠 Memory System</button>
         <button class="tab-btn" id="tabStory" data-tab="story" role="tab" aria-selected="false">Story Book</button>
       </div>
 
@@ -180,6 +181,19 @@
 
         <div id="storyScenes" class="story-scenes"></div>
       </section>
+    </section>
+
+    <section id="memoryView" class="view-block hidden">
+      <div class="memory-system-container">
+        <aside class="memory-sidebar" id="memorySidebar"></aside>
+        <div class="memory-content">
+          <div id="memoryWelcome" class="memory-welcome">
+            <h2>🧠 Harry Lorayne Memory System</h2>
+            <p>बाईं ओर से कोई शब्द चुनो - memory trick दिखेगा!</p>
+          </div>
+          <div id="memoryWordDisplay"></div>
+        </div>
+      </div>
     </section>
   </main>
 
