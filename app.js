@@ -332,6 +332,14 @@ let learningMode = "indpol";
 let currentBook = null;
 const storyStorageKey = "indpol-story-books-v1";
 
+// Pagination variables
+let batchIndex = 0;
+const itemsPerBatch = 4;
+const sentencesContainer = document.getElementById("sentencesContainer");
+const prevBatchBtn = document.getElementById("prevBatch");
+const nextBatchBtn = document.getElementById("nextBatch");
+const batchCounter = document.getElementById("batchCounter");
+
 function cls(color) {
   if (color === "future") return "color-future";
   if (color === "noun") return "color-noun";
@@ -488,17 +496,88 @@ function nextLine() {
   renderLine();
 }
 
+function renderSentences() {
+  sentencesContainer.innerHTML = '';
+  
+  const start = batchIndex * itemsPerBatch;
+  const end = Math.min(start + itemsPerBatch, pool.length);
+  const totalBatches = Math.ceil(pool.length / itemsPerBatch) || 1;
+  
+  for (let i = start; i < end; i++) {
+    const item = pool[i];
+    if (!item) continue;
+    
+    const card = document.createElement('div');
+    card.className = 'sentence-card';
+    
+    const polish = item.polish || '';
+    const pronunciation = learningMode === "marpol" ? (item.marpol || item.hindpol || '') : (item.hindpol || '');
+    const marathi = item.marathi || '';
+    const hindi = item.hindi || '';
+    const english = item.english || '';
+    
+    card.innerHTML = `
+      <div class="sentence-number">${i + 1}. ${english || "No description"}</div>
+      <div class="sentence-content">
+        <div class="sentence-line">
+          <span class="sentence-line-label">🇵🇱 Polish</span>
+          <span class="sentence-line-text polish">${polish}</span>
+        </div>
+        <div class="sentence-line">
+          <span class="sentence-line-label">🇮🇳 ${learningMode === "marpol" ? "Marpol" : "Indpol"}</span>
+          <span class="sentence-line-text hindpol">${pronunciation}</span>
+        </div>
+        ${marathi ? `<div class="sentence-line">
+          <span class="sentence-line-label">🇮🇳 मराठी</span>
+          <span class="sentence-line-text marathi">${marathi}</span>
+        </div>` : ''}
+        ${hindi ? `<div class="sentence-line">
+          <span class="sentence-line-label">🇮🇳 हिंदी</span>
+          <span class="sentence-line-text hindi">${hindi}</span>
+        </div>` : ''}
+        ${english ? `<div class="sentence-line">
+          <span class="sentence-line-label">🇬🇧 English</span>
+          <span class="sentence-line-text english">${english}</span>
+        </div>` : ''}
+      </div>
+    `;
+    
+    sentencesContainer.appendChild(card);
+  }
+  
+  // Update pagination buttons
+  prevBatchBtn.disabled = batchIndex === 0;
+  nextBatchBtn.disabled = end >= pool.length;
+  batchCounter.textContent = `${batchIndex + 1} / ${totalBatches}`;
+}
+
+function nextBatch() {
+  const totalBatches = Math.ceil(pool.length / itemsPerBatch) || 1;
+  if (batchIndex < totalBatches - 1) {
+    batchIndex++;
+    renderSentences();
+  }
+}
+
+function prevBatch() {
+  if (batchIndex > 0) {
+    batchIndex--;
+    renderSentences();
+  }
+}
+
 function setTense(tense) {
   activeTense = tense;
   pool = tense === "all" ? [...dictionary] : dictionary.filter((d) => d.tense === tense);
   index = 0;
+  batchIndex = 0;
   tenseButtons.forEach((b) => b.classList.toggle("active", b.dataset.tense === tense));
   if (arrowPastBtn && arrowPresentBtn && arrowFutureBtn) {
     arrowPastBtn.classList.toggle("active", tense === "past");
     arrowPresentBtn.classList.toggle("active", tense === "present" || tense === "all");
     arrowFutureBtn.classList.toggle("active", tense === "future");
   }
-  renderLine();
+  renderSentences();
 }
 
 function buildWordPanel() {
@@ -596,7 +675,7 @@ function setLearningMode(mode) {
     learningModeSelect.value = learningMode;
   }
   buildWordPanel();
-  renderLine();
+  renderSentences();
   if (currentBook) {
     renderStoryBook(currentBook);
   }
@@ -893,6 +972,8 @@ buildStoryBtn.addEventListener("click", buildStoryBookFromInput);
 saveStoryBtn.addEventListener("click", saveCurrentBook);
 playStoryAudioBtn.addEventListener("click", generateElevenLabsAudioForStory);
 stopStoryAudioBtn.addEventListener("click", stopStoryAudio);
+prevBatchBtn.addEventListener("click", prevBatch);
+nextBatchBtn.addEventListener("click", nextBatch);
 
 // Load database and initialize
 async function loadPolishLexicon() {
@@ -1088,4 +1169,5 @@ function displayMemoryWord(index) {
   updateWordCountBadge();
   renderStoryLibrary();
   setLearningMode(learningModeSelect.value);
+  renderSentences();
 })();

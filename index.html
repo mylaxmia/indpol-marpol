@@ -76,16 +76,12 @@
           <label class="mini-switch"><input id="showMeaningLine" type="checkbox" checked />Meaning</label>
         </div>
 
-        <article id="lineCard" class="line-card">
-          <p id="linePolish" class="line polish"></p>
-          <p id="lineHindpol" class="line hindpol"></p>
-          <p id="lineHindi" class="line hindi"></p>
-        </article>
+        <div id="sentencesContainer" class="sentences-container"></div>
 
-        <div class="meaning-map">
-          <h3>Semantic Color Mapping</h3>
-          <div id="semanticLegend" class="legend"></div>
-          <div id="semanticTokens" class="tokens"></div>
+        <div class="pagination-controls">
+          <button id="prevBatch" class="btn secondary">⬅️ Back</button>
+          <span id="batchCounter" class="batch-counter">1 / 10</span>
+          <button id="nextBatch" class="btn secondary">Next ➡️</button>
         </div>
 
         <div id="pausePrompt" class="pause-prompt hidden">
