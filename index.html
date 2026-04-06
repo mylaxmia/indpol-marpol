@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Indpol Learning Studio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Teko:wght@400;500;700&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="bg-orb orb-a"></div>
+  <div class="bg-orb orb-b"></div>
+
+  <main class="layout">
+    <header class="hero panel">
+      <p class="eyebrow">त्रि-भाषा बोलने की मशीन</p>
+      <h1>Indpol</h1>
+      <p class="subtitle">Polish + Indpol + हिंदी को एक साथ सुनो, देखो, बोलो</p>
+
+      <div class="tab-row" role="tablist" aria-label="Indpol Sections">
+        <button class="tab-btn active" id="tabLearning" data-tab="learning" role="tab" aria-selected="true">Learning Studio</button>
+        <button class="tab-btn" id="tabDictionary" data-tab="dictionary" role="tab" aria-selected="false">Dictionary</button>
+        <button class="tab-btn" id="tabStory" data-tab="story" role="tab" aria-selected="false">Story Book</button>
+      </div>
+
+      <div class="controls">
+        <label class="switch">
+          <span>Mode</span>
+          <select id="learningModeSelect" class="mode-select">
+            <option value="indpol">Indpol</option>
+            <option value="marpol">Marpol</option>
+          </select>
+        </label>
+        <label class="switch">
+          <input type="checkbox" id="subtitleToggle" checked />
+          <span>Subtitles ON</span>
+        </label>
+        <label class="switch">
+          <input type="checkbox" id="pauseToggle" />
+          <span>Pause Mode</span>
+        </label>
+        <span class="word-count" id="wordCountBadge">Polish words: 0</span>
+      </div>
+
+      <div class="tense-row">
+        <button class="tense-btn active" data-tense="all">सब काल</button>
+        <button class="tense-btn" data-tense="present">➡️ वर्तमान</button>
+        <button class="tense-btn" data-tense="past">⬅️ भूतकाल</button>
+        <button class="tense-btn" data-tense="future">➡️➡️ भविष्य</button>
+      </div>
+    </header>
+
+    <section id="learningView" class="view-block">
+      <section class="panel practice" aria-live="polite">
+        <div class="practice-head">
+          <h2>Practice Line</h2>
+          <div class="btn-row">
+            <button id="playPolish" class="btn primary">Polish Audio</button>
+            <button id="nextLine" class="btn">Next</button>
+          </div>
+        </div>
+
+        <div class="arrow-tense-bar" aria-label="Quick tense arrows">
+          <button id="arrowPast" class="arrow-btn" title="Past">⬅️</button>
+          <button id="arrowPresent" class="arrow-btn active" title="Present">⬆️</button>
+          <button id="arrowFuture" class="arrow-btn" title="Future">➡️</button>
+        </div>
+
+        <div class="line-visibility-controls" aria-label="Practice line languages">
+          <label class="mini-switch"><input id="showAllLanguages" type="checkbox" checked />All</label>
+          <label class="mini-switch"><input id="showPolishLine" type="checkbox" checked />Polish</label>
+          <label class="mini-switch"><input id="showPronLine" type="checkbox" checked />Indpol/Marpol</label>
+          <label class="mini-switch"><input id="showMeaningLine" type="checkbox" checked />Meaning</label>
+        </div>
+
+        <article id="lineCard" class="line-card">
+          <p id="linePolish" class="line polish"></p>
+          <p id="lineHindpol" class="line hindpol"></p>
+          <p id="lineHindi" class="line hindi"></p>
+        </article>
+
+        <div class="meaning-map">
+          <h3>Semantic Color Mapping</h3>
+          <div id="semanticLegend" class="legend"></div>
+          <div id="semanticTokens" class="tokens"></div>
+        </div>
+
+        <div id="pausePrompt" class="pause-prompt hidden">
+          <p>अब आप बोलिए। बोलने के बाद नीचे दबाइए:</p>
+          <button id="continueBtn" class="btn primary">मैंने बोल लिया</button>
+        </div>
+      </section>
+
+    </section>
+
+    <section id="dictionaryView" class="view-block hidden">
+      <section class="panel dictionary">
+        <div class="practice-head">
+          <h2>Dictionary <span id="dictCount">(Loading...)</span></h2>
+          <small>किसी शब्द पर क्लिक करें - सभी शब्द यहाँ हैं</small>
+        </div>
+        <div id="wordGrid" class="word-grid"></div>
+      </section>
+
+      <aside class="panel memory" id="memoryPanel">
+        <h2>Word Memory</h2>
+        <p class="hint">शब्द चुनो: memory scene दिखेगा</p>
+        <div id="wordDetails" class="details muted">अभी कोई शब्द चुना नहीं गया।</div>
+      </aside>
+    </section>
+
+    <section id="storyView" class="view-block hidden">
+      <section class="panel story-creator">
+        <div class="practice-head">
+          <h2>Story Book Creator</h2>
+          <small>Story डालो, scenes बनाओ, save करो</small>
+        </div>
+
+        <div class="story-form-grid">
+          <label>
+            शीर्षक
+            <input id="storyTitle" class="text-input" type="text" placeholder="जैसे: बस स्टॉप पर पहला दिन" />
+          </label>
+          <label>
+            Level
+            <select id="storyLevel" class="text-input">
+              <option value="A1">A1</option>
+              <option value="A2">A2</option>
+              <option value="B1">B1</option>
+              <option value="B2">B2</option>
+            </select>
+          </label>
+        </div>
+
+        <label>
+          ElevenLabs API Key
+          <input id="elevenApiKey" class="text-input" type="password" placeholder="xi-api-key" />
+        </label>
+
+        <label>
+          ElevenLabs Voice ID
+          <input id="elevenVoiceId" class="text-input" type="text" value="EXAVITQu4vr4xnSDxMaL" />
+        </label>
+
+        <label>
+          Story Input
+          <textarea id="storyInput" class="text-area" rows="10" placeholder="हर scene के लिए 3 लाइन दें:\nहिंदपोल\nPolish\nहिंदी/मराठी अर्थ\n\nअगला scene..."></textarea>
+        </label>
+
+        <div class="btn-row">
+          <button id="buildStoryBtn" class="btn primary">Story Book बनाओ</button>
+          <button id="saveStoryBtn" class="btn">Save Story Book</button>
+        </div>
+      </section>
+
+      <section class="panel story-library">
+        <div class="practice-head">
+          <h2>Saved Story Books</h2>
+          <small>Level-wise progressive collection</small>
+        </div>
+        <div id="storyLibrary" class="story-library-grid"></div>
+      </section>
+
+      <section class="panel story-output">
+        <div class="practice-head">
+          <h2 id="storyBookHeading">Story Preview</h2>
+          <div class="btn-row">
+            <button id="playStoryAudioBtn" class="btn primary">11Labs Audio</button>
+            <button id="stopStoryAudioBtn" class="btn">Audio Stop</button>
+          </div>
+        </div>
+
+        <div class="legend">
+          <span class="badge color-future">🔴 काल/इरादा</span>
+          <span class="badge color-action">🔵 क्रिया</span>
+          <span class="badge color-noun">🟣 वस्तु/संज्ञा</span>
+        </div>
+
+        <div id="storyScenes" class="story-scenes"></div>
+      </section>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>

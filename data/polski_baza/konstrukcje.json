@@ -1,0 +1,60 @@
+{
+    "meta":  {
+                 "jezyk":  "polski",
+                 "zrodlo":  "polish book.txt",
+                 "liczba_konstrukcji":  10,
+                 "data_aktualizacji":  "2026-04-06"
+             },
+    "dane":  [
+                 {
+                     "konstrukcja":  "dla mnie",
+                     "liczba_uzyc":  3,
+                     "objaśnienie":  "Konstrukcja częsta w praktycznych dialogach i ćwiczeniach komunikacyjnych."
+                 },
+                 {
+                     "konstrukcja":  "na poci",
+                     "liczba_uzyc":  3,
+                     "objaśnienie":  "Konstrukcja częsta w praktycznych dialogach i ćwiczeniach komunikacyjnych."
+                 },
+                 {
+                     "konstrukcja":  "na tej",
+                     "liczba_uzyc":  3,
+                     "objaśnienie":  "Konstrukcja częsta w praktycznych dialogach i ćwiczeniach komunikacyjnych."
+                 },
+                 {
+                     "konstrukcja":  "w tym",
+                     "liczba_uzyc":  3,
+                     "objaśnienie":  "Konstrukcja częsta w praktycznych dialogach i ćwiczeniach komunikacyjnych."
+                 },
+                 {
+                     "konstrukcja":  "za da",
+                     "liczba_uzyc":  3,
+                     "objaśnienie":  "Konstrukcja częsta w praktycznych dialogach i ćwiczeniach komunikacyjnych."
+                 },
+                 {
+                     "konstrukcja":  "o siodmej",
+                     "liczba_uzyc":  2,
+                     "objaśnienie":  "Konstrukcja częsta w praktycznych dialogach i ćwiczeniach komunikacyjnych."
+                 },
+                 {
+                     "konstrukcja":  "po polsku",
+                     "liczba_uzyc":  2,
+                     "objaśnienie":  "Konstrukcja częsta w praktycznych dialogach i ćwiczeniach komunikacyjnych."
+                 },
+                 {
+                     "konstrukcja":  "na zaplacenie",
+                     "liczba_uzyc":  2,
+                     "objaśnienie":  "Konstrukcja częsta w praktycznych dialogach i ćwiczeniach komunikacyjnych."
+                 },
+                 {
+                     "konstrukcja":  "w domu",
+                     "liczba_uzyc":  2,
+                     "objaśnienie":  "Konstrukcja częsta w praktycznych dialogach i ćwiczeniach komunikacyjnych."
+                 },
+                 {
+                     "konstrukcja":  "za krotki",
+                     "liczba_uzyc":  2,
+                     "objaśnienie":  "Konstrukcja częsta w praktycznych dialogach i ćwiczeniach komunikacyjnych."
+                 }
+             ]
+}

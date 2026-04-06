@@ -1,0 +1,18 @@
+{
+    "meta":  {
+                 "jezyk_systemu":  "polski",
+                 "zasada":  "Brak mieszania języków; wszystkie opisy i dane są wyłącznie po polsku.",
+                 "data_aktualizacji":  "2026-04-06"
+             },
+    "pliki":  {
+                  "slowa":  "data/polski_baza/slowa.json",
+                  "konstrukcje":  "data/polski_baza/konstrukcje.json",
+                  "gramatyka":  "data/polski_baza/gramatyka.json",
+                  "zdania_uzytkowe":  "data/polski_baza/zdania_uzytkowe.json"
+              },
+    "podsumowanie":  {
+                         "hasla":  829,
+                         "konstrukcje":  10,
+                         "zdania":  293
+                     }
+}

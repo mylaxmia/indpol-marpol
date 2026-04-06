@@ -1,0 +1,2062 @@
+{
+    "meta":  {
+                 "language_name":  "Indpol",
+                 "dataset_name":  "indpol_useful_sentences_marathi",
+                 "description":  "Użyteczne zdania: Polish + zapis brzmieniowy Indpol + Marathi placeholder अर्थ.",
+                 "total":  293,
+                 "updatedAt":  "2026-04-06"
+             },
+    "data":  [
+                 {
+                     "polish_sentence":  "Czy nie chcesz?",
+                     "indpol_sentence":  "चइ निए खत्सएश?",
+                     "marpol_sentence":  "चइ निए खत्सएश?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy chcesz isc jutro?",
+                     "indpol_sentence":  "चइ खत्सएश इसत्स यउतरओ?",
+                     "marpol_sentence":  "चइ खत्सएश इसत्स यउतरओ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy chcesz isc jutro na Essex ulic§?",
+                     "indpol_sentence":  "चइ खत्सएश इसत्स यउतरओ नअ एससएक्स उलइत्स?",
+                     "marpol_sentence":  "चइ खत्सएश इसत्स यउतरओ नअ एससएक्स उलइत्स?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy nie chcesz nic?",
+                     "indpol_sentence":  "चइ निए खत्सएश नित्स?",
+                     "marpol_sentence":  "चइ निए खत्सएश नित्स?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy chcesz towarzyszyc memu (meh\u0027moo) przy-",
+                     "indpol_sentence":  "चइ खत्सएश तओवअझइशइत्स मएमउ (मएह\u0027मओओ) पझइ-",
+                     "marpol_sentence":  "चइ खत्सएश तओवअझइशइत्स मएमउ (मएह\u0027मओओ) पझइ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "zes pan spoznil si§ na poci^g...",
+                     "indpol_sentence":  "ज़एस पअन सपओज़निल शि नअ पओचिग...",
+                     "marpol_sentence":  "ज़एस पअन सपओज़निल शि नअ पओचिग...",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pan si§ spoznil?",
+                     "indpol_sentence":  "चइ पअन शि सपओज़निल?",
+                     "marpol_sentence":  "चइ पअन शि सपओज़निल?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego si§ pan spoznil na pofci^g?",
+                     "indpol_sentence":  "दलअचएगओ शि पअन सपओज़निल नअ पओफचिग?",
+                     "marpol_sentence":  "दलअचएगओ शि पअन सपओज़निल नअ पओफचिग?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy nie mowilismy panu?",
+                     "indpol_sentence":  "चइ निए मओवइलइसमइ पअनउ?",
+                     "marpol_sentence":  "चइ निए मओवइलइसमइ पअनउ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy nie mowilismy panu, ze on sig spoznil na",
+                     "indpol_sentence":  "चइ निए मओवइलइसमइ पअनउ, ज़ए ओन शिग सपओज़निल नअ",
+                     "marpol_sentence":  "चइ निए मओवइलइसमइ पअनउ, ज़ए ओन शिग सपओज़निल नअ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy nie mowilismy panu, ze pan si§ spozni?",
+                     "indpol_sentence":  "चइ निए मओवइलइसमइ पअनउ, ज़ए पअन शि सपओज़नि?",
+                     "marpol_sentence":  "चइ निए मओवइलइसमइ पअनउ, ज़ए पअन शि सपओज़नि?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pan spoznil si§ na pociag ranny ?",
+                     "indpol_sentence":  "चइ पअन सपओज़निल शि नअ पओचिअग रअननइ ?",
+                     "marpol_sentence":  "चइ पअन सपओज़निल शि नअ पओचिअग रअननइ ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pan si§ spoznil na poci^g, ktory odchodzi o",
+                     "indpol_sentence":  "चइ पअन शि सपओज़निल नअ पओचिग, कतओरइ ओदखओजि ओ",
+                     "marpol_sentence":  "चइ पअन शि सपओज़निल नअ पओचिग, कतओरइ ओदखओजि ओ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "si§, ze wkrotce wroci - nie pozniej jak o dziesi^tej",
+                     "indpol_sentence":  "शि, ज़ए वकरओतत्सए वरओचि - निए पओज़निएय यअक ओ जिएशितएय",
+                     "marpol_sentence":  "शि, ज़ए वकरओतत्सए वरओचि - निए पओज़निएय यअक ओ जिएशितएय",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy twoj ojciec wyszedl?",
+                     "indpol_sentence":  "चइ तवओय ओयचिएत्स वइशएदल?",
+                     "marpol_sentence":  "चइ तवओय ओयचिएत्स वइशएदल?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego twoj ojciec nie chce isc?",
+                     "indpol_sentence":  "दलअचएगओ तवओय ओयचिएत्स निए खत्सए इसत्स?",
+                     "marpol_sentence":  "दलअचएगओ तवओय ओयचिएत्स निए खत्सए इसत्स?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Moj pan dopiero co wyszedl.",
+                     "indpol_sentence":  "मओय पअन दओपइएरओ त्सओ वइशएदल.",
+                     "marpol_sentence":  "मओय पअन दओपइएरओ त्सओ वइशएदल.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie mam nie przeciwko temu, azebys z niem wy-",
+                     "indpol_sentence":  "निए मअम निए पझएचिवकओ तएमउ, अज़एबइस ज़ निएम वइ-",
+                     "marpol_sentence":  "निए मअम निए पझएचिवकओ तएमउ, अज़एबइस ज़ निएम वइ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Spodziewalem si§ cos dostac, lecz nie nie",
+                     "indpol_sentence":  "सपओजिएवअलएम शि त्सओस दओसतअत्स, लएच निए निए",
+                     "marpol_sentence":  "सपओजिएवअलएम शि त्सओस दओसतअत्स, लएच निए निए",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy brat pana powroci o dziewi^tej rano?",
+                     "indpol_sentence":  "चइ बरअत पअनअ पओवरओचि ओ जिएवइतएय रअनओ?",
+                     "marpol_sentence":  "चइ बरअत पअनअ पओवरओचि ओ जिएवइतएय रअनओ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "nie pozniej jak.",
+                     "indpol_sentence":  "निए पओज़निएय यअक.",
+                     "marpol_sentence":  "निए पओज़निएय यअक.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy wrocisz jutro»?",
+                     "indpol_sentence":  "चइ वरओचिश यउतरओ»?",
+                     "marpol_sentence":  "चइ वरओचिश यउतरओ»?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Tak, ale (ah\u0027leh) nie pr§dzej (pren\u0027dzay) jak o",
+                     "indpol_sentence":  "तअक, अलए (अह\u0027लएह) निए परजएय (परएन\u0027जअइ) यअक ओ",
+                     "marpol_sentence":  "तअक, अलए (अह\u0027लएह) निए परजएय (परएन\u0027जअइ) यअक ओ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pana siostra (shaws\u0027trah) juz (yooz,h) wro-",
+                     "indpol_sentence":  "चइ पअनअ शिओसतरअ (सहअवस\u0027तरअह) यउज़ (इओओज़,ह) वरओ-",
+                     "marpol_sentence":  "चइ पअनअ शिओसतरअ (सहअवस\u0027तरअह) यउज़ (इओओज़,ह) वरओ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "On powroci z miasta nie pozniej jak o siodmej",
+                     "indpol_sentence":  "ओन पओवरओचि ज़ मइअसतअ निए पओज़निएय यअक ओ शिओदमएय",
+                     "marpol_sentence":  "ओन पओवरओचि ज़ मइअसतअ निए पओज़निएय यअक ओ शिओदमएय",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Moja pani spoznila si§ na poci^g dzis rano, wi§c",
+                     "indpol_sentence":  "मओयअ पअनि सपओज़निलअ शि नअ पओचिग जिस रअनओ, वइत्स",
+                     "marpol_sentence":  "मओयअ पअनि सपओज़निलअ शि नअ पओचिग जिस रअनओ, वइत्स",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "si§, ze wkrotce wroci - nie pozniej jak o dzie-",
+                     "indpol_sentence":  "शि, ज़ए वकरओतत्सए वरओचि - निए पओज़निएय यअक ओ जिए-",
+                     "marpol_sentence":  "शि, ज़ए वकरओतत्सए वरओचि - निए पओज़निएय यअक ओ जिए-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy twoj wuj pr§dko powrocil?",
+                     "indpol_sentence":  "चइ तवओय वउय परदकओ पओवरओचिल?",
+                     "marpol_sentence":  "चइ तवओय वउय परदकओ पओवरओचिल?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego masz co£ przeciwko mo j emu (maw-",
+                     "indpol_sentence":  "दलअचएगओ मअश त्सओ£ पझएचिवकओ मओ य एमउ (मअव-",
+                     "marpol_sentence":  "दलअचएगओ मअश त्सओ£ पझएचिवकओ मओ य एमउ (मअव-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Moj wuj byl w sklepie wczoraj (vchaw\u0027rye) .",
+                     "indpol_sentence":  "मओय वउय बइल व सकलएपइए वचओरअय (वखअव\u0027रइए) .",
+                     "marpol_sentence":  "मओय वउय बइल व सकलएपइए वचओरअय (वखअव\u0027रइए) .",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy twoj s^siad byl u twego wuja?",
+                     "indpol_sentence":  "चइ तवओय सशिअद बइल उ तवएगओ वउयअ?",
+                     "marpol_sentence":  "चइ तवओय सशिअद बइल उ तवएगओ वउयअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Co pan kupil swemu synowi?",
+                     "indpol_sentence":  "त्सओ पअन कउपइल सवएमउ सइनओवइ?",
+                     "marpol_sentence":  "त्सओ पअन कउपइल सवएमउ सइनओवइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego nie chcesz isc ze synem mojego wuja?",
+                     "indpol_sentence":  "दलअचएगओ निए खत्सएश इसत्स ज़ए सइनएम मओयएगओ वउयअ?",
+                     "marpol_sentence":  "दलअचएगओ निए खत्सएश इसत्स ज़ए सइनएम मओयएगओ वउयअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Co chcesz od syna mojego sasiada?",
+                     "indpol_sentence":  "त्सओ खत्सएश ओद सइनअ मओयएगओ सअशिअदअ?",
+                     "marpol_sentence":  "त्सओ खत्सएश ओद सइनअ मओयएगओ सअशिअदअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Gdzie (g\u0027jeh) jest moja csapka, fcracie (brah\u0027-",
+                     "indpol_sentence":  "गजिए (ग\u0027यएह) यएसत मओयअ त्ससअपकअ, फत्सरअचिए (बरअह\u0027-",
+                     "marpol_sentence":  "गजिए (ग\u0027यएह) यएसत मओयअ त्ससअपकअ, फत्सरअचिए (बरअह\u0027-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pan kupil t§ czapk§ dla mnie?",
+                     "indpol_sentence":  "चइ पअन कउपइल त चअपक दलअ मनिए?",
+                     "marpol_sentence":  "चइ पअन कउपइल त चअपक दलअ मनिए?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego nie kupiles (koo-pee\u0027lesh) takze",
+                     "indpol_sentence":  "दलअचएगओ निए कउपइलएस (कओओ-पएए\u0027लएसह) तअकज़ए",
+                     "marpol_sentence":  "दलअचएगओ निए कउपइलएस (कओओ-पएए\u0027लएसह) तअकज़ए",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Ta czapka jest za mala dla mnie.",
+                     "indpol_sentence":  "तअ चअपकअ यएसत ज़अ मअलअ दलअ मनिए.",
+                     "marpol_sentence":  "तअ चअपकअ यएसत ज़अ मअलअ दलअ मनिए.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "czy dalas (dah\u0027lahsh) dziecku chleba?",
+                     "indpol_sentence":  "चइ दअलअस (दअह\u0027लअहसह) जिएत्सकउ खलएबअ?",
+                     "marpol_sentence":  "चइ दअलअस (दअह\u0027लअहसह) जिएत्सकउ खलएबअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pan jest glodny?",
+                     "indpol_sentence":  "चइ पअन यएसत गलओदनइ?",
+                     "marpol_sentence":  "चइ पअन यएसत गलओदनइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego pan nie je?",
+                     "indpol_sentence":  "दलअचएगओ पअन निए यए?",
+                     "marpol_sentence":  "दलअचएगओ पअन निए यए?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "(v\u0027yen\u0027tsay) jesc, poniewaz nie jest tak bar-",
+                     "indpol_sentence":  "(व\u0027इएन\u0027तसअइ) यएसत्स, पओनिएवअज़ निए यएसत तअक बअर-",
+                     "marpol_sentence":  "(व\u0027इएन\u0027तसअइ) यएसत्स, पओनिएवअज़ निए यएसत तअक बअर-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy nie ma tu gdzie wody?",
+                     "indpol_sentence":  "चइ निए मअ तउ गजिए वओदइ?",
+                     "marpol_sentence":  "चइ निए मअ तउ गजिए वओदइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "czy byles juz u swego wuja?",
+                     "indpol_sentence":  "चइ बइलएस यउज़ उ सवएगओ वउयअ?",
+                     "marpol_sentence":  "चइ बइलएस यउज़ उ सवएगओ वउयअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy dom jego syna jest na tej samej (sah\u0027may)",
+                     "indpol_sentence":  "चइ दओम यएगओ सइनअ यएसत नअ तएय सअमएय (सअह\u0027मअइ)",
+                     "marpol_sentence":  "चइ दओम यएगओ सइनअ यएसत नअ तएय सअमएय (सअह\u0027मअइ)",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego twoj syn nie jest pilny?",
+                     "indpol_sentence":  "दलअचएगओ तवओय सइन निए यएसत पइलनइ?",
+                     "marpol_sentence":  "दलअचएगओ तवओय सइन निए यएसत पइलनइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy on nie chce odwiedzic swoich s^siadov/",
+                     "indpol_sentence":  "चइ ओन निए खत्सए ओदवइएजित्स सवओइख सशिअदओव/",
+                     "marpol_sentence":  "चइ ओन निए खत्सए ओदवइएजित्स सवओइख सशिअदओव/",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Twoj syn nie jest tak pilny jak moj .",
+                     "indpol_sentence":  "तवओय सइन निए यएसत तअक पइलनइ यअक मओय .",
+                     "marpol_sentence":  "तवओय सइन निए यएसत तअक पइलनइ यअक मओय .",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy nie odwiedzisz mnie?",
+                     "indpol_sentence":  "चइ निए ओदवइएजिश मनिए?",
+                     "marpol_sentence":  "चइ निए ओदवइएजिश मनिए?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ona chce isc z, tern starem czlowiekiem?",
+                     "indpol_sentence":  "चइ ओनअ खत्सए इसत्स ज़, तएरन सतअरएम चलओवइएकइएम?",
+                     "marpol_sentence":  "चइ ओनअ खत्सए इसत्स ज़, तएरन सतअरएम चलओवइएकइएम?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy twoj syn powrocil od tego starego",
+                     "indpol_sentence":  "चइ तवओय सइन पओवरओचिल ओद तएगओ सतअरएगओ",
+                     "marpol_sentence":  "चइ तवओय सइन पओवरओचिल ओद तएगओ सतअरएगओ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Co jest dobre?",
+                     "indpol_sentence":  "त्सओ यएसत दओबरए?",
+                     "marpol_sentence":  "त्सओ यएसत दओबरए?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Moja siostra nie jest tak bardzo stara.",
+                     "indpol_sentence":  "मओयअ शिओसतरअ निए यएसत तअक बअरजओ सतअरअ.",
+                     "marpol_sentence":  "मओयअ शिओसतरअ निए यएसत तअक बअरजओ सतअरअ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy nie masz CGI dobrego w swoim sklepie?",
+                     "indpol_sentence":  "चइ निए मअश त्सगइ दओबरएगओ व सवओइम सकलएपइए?",
+                     "marpol_sentence":  "चइ निए मअश त्सगइ दओबरएगओ व सवओइम सकलएपइए?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy dalas cos temu biednemu chlopcu?",
+                     "indpol_sentence":  "चइ दअलअस त्सओस तएमउ बइएदनएमउ खलओपत्सउ?",
+                     "marpol_sentence":  "चइ दअलअस त्सओस तएमउ बइएदनएमउ खलओपत्सउ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego nie odwiedziles swego s^siada?",
+                     "indpol_sentence":  "दलअचएगओ निए ओदवइएजिलएस सवएगओ सशिअदअ?",
+                     "marpol_sentence":  "दलअचएगओ निए ओदवइएजिलएस सवएगओ सशिअदअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Gdybys tam nie poszedl, nie zlamalbys nogi ?",
+                     "indpol_sentence":  "गदइबइस तअम निए पओशएदल, निए ज़लअमअलबइस नओगइ ?",
+                     "marpol_sentence":  "गदइबइस तअम निए पओशएदल, निए ज़लअमअलबइस नओगइ ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Gdzie on byl?",
+                     "indpol_sentence":  "गजिए ओन बइल?",
+                     "marpol_sentence":  "गजिए ओन बइल?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy widZ|iales mojg, siostr§?",
+                     "indpol_sentence":  "चइ वइज|इअलएस मओयग, शिओसतर?",
+                     "marpol_sentence":  "चइ वइज|इअलएस मओयग, शिओसतर?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pan widzial, jak on sobie zlamal nog§?",
+                     "indpol_sentence":  "चइ पअन वइजिअल, यअक ओन सओबइए ज़लअमअल नओग?",
+                     "marpol_sentence":  "चइ पअन वइजिअल, यअक ओन सओबइए ज़लअमअल नओग?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ten kubek jest czysty (chiss\u0027tih) ?",
+                     "indpol_sentence":  "चइ तएन कउबएक यएसत चइसतइ (खइसस\u0027तइह) ?",
+                     "marpol_sentence":  "चइ तएन कउबएक यएसत चइसतइ (खइसस\u0027तइह) ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie, nie mysl§ ze jest.",
+                     "indpol_sentence":  "निए, निए मइसल ज़ए यएसत.",
+                     "marpol_sentence":  "निए, निए मइसल ज़ए यएसत.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Kubek kawy nie dosyc dla mnie i mego* brata;",
+                     "indpol_sentence":  "कउबएक कअवइ निए दओसइत्स दलअ मनिए इ मएगओ* बरअतअ;",
+                     "marpol_sentence":  "कउबएक कअवइ निए दओसइत्स दलअ मनिए इ मएगओ* बरअतअ;",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy nie masz dosyc kawy ?",
+                     "indpol_sentence":  "चइ निए मअश दओसइत्स कअवइ ?",
+                     "marpol_sentence":  "चइ निए मअश दओसइत्स कअवइ ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie mam dosyc pieni§dzy, by zaplacic twoj i",
+                     "indpol_sentence":  "निए मअम दओसइत्स पइएनिजइ, बइ ज़अपलअचित्स तवओय इ",
+                     "marpol_sentence":  "निए मअम दओसइत्स पइएनिजइ, बइ ज़अपलअचित्स तवओय इ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy masz dosyc, by zaplacic twoj i moj ?",
+                     "indpol_sentence":  "चइ मअश दओसइत्स, बइ ज़अपलअचित्स तवओय इ मओय ?",
+                     "marpol_sentence":  "चइ मअश दओसइत्स, बइ ज़अपलअचित्स तवओय इ मओय ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego nie zaplaciles rachunku twej siostry?",
+                     "indpol_sentence":  "दलअचएगओ निए ज़अपलअचिलएस रअखउनकउ तवएय शिओसतरइ?",
+                     "marpol_sentence":  "दलअचएगओ निए ज़अपलअचिलएस रअखउनकउ तवएय शिओसतरइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Bo nie mialem dosyc pieni§dzy na zaplacenie",
+                     "indpol_sentence":  "बओ निए मइअलएम दओसइत्स पइएनिजइ नअ ज़अपलअत्सएनिए",
+                     "marpol_sentence":  "बओ निए मइअलएम दओसइत्स पइएनिजइ नअ ज़अपलअत्सएनिए",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy masz pieni^dze?",
+                     "indpol_sentence":  "चइ मअश पइएनिजए?",
+                     "marpol_sentence":  "चइ मअश पइएनिजए?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie mog§ ci nie dac, poniewaz nie mam przy",
+                     "indpol_sentence":  "निए मओग चि निए दअत्स, पओनिएवअज़ निए मअम पझइ",
+                     "marpol_sentence":  "निए मओग चि निए दअत्स, पओनिएवअज़ निए मअम पझइ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie mysle, ze b§d§ mial dosyc na zaplacenie",
+                     "indpol_sentence":  "निए मइसलए, ज़ए बद मइअल दओसइत्स नअ ज़अपलअत्सएनिए",
+                     "marpol_sentence":  "निए मइसलए, ज़ए बद मइअल दओसइत्स नअ ज़अपलअत्सएनिए",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Chcial siedem dolarow, chociaz mu nie byly po~",
+                     "indpol_sentence":  "खचिअल शिएदएम दओलअरओव, खओचिअज़ मउ निए बइलइ पओ~",
+                     "marpol_sentence":  "खचिअल शिएदएम दओलअरओव, खओचिअज़ मउ निए बइलइ पओ~",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy mozesz dac mej sidstrze pi§c (p\u0027yentch)",
+                     "indpol_sentence":  "चइ मओज़एश दअत्स मएय शिदसतझए पइत्स (प\u0027इएनतख)",
+                     "marpol_sentence":  "चइ मओज़एश दअत्स मएय शिदसतझए पइत्स (प\u0027इएनतख)",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego twoj s^siad nie chcial dac czapki me-",
+                     "indpol_sentence":  "दलअचएगओ तवओय सशिअद निए खचिअल दअत्स चअपकइ मए-",
+                     "marpol_sentence":  "दलअचएगओ तवओय सशिअद निए खचिअल दअत्स चअपकइ मए-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy twoj wuj ma duzo pieni^dzy?",
+                     "indpol_sentence":  "चइ तवओय वउय मअ दउज़ओ पइएनिजइ?",
+                     "marpol_sentence":  "चइ तवओय वउय मअ दउज़ओ पइएनिजइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy twoj a matka dala ci pieni§dzy?",
+                     "indpol_sentence":  "चइ तवओय अ मअतकअ दअलअ चि पइएनिजइ?",
+                     "marpol_sentence":  "चइ तवओय अ मअतकअ दअलअ चि पइएनिजइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ty myslisz, ze on ma pieni^dze.",
+                     "indpol_sentence":  "चइ तइ मइसलइश, ज़ए ओन मअ पइएनिजए.",
+                     "marpol_sentence":  "चइ तइ मइसलइश, ज़ए ओन मअ पइएनिजए.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie, ja nie mysl§ tego.",
+                     "indpol_sentence":  "निए, यअ निए मइसल तएगओ.",
+                     "marpol_sentence":  "निए, यअ निए मइसल तएगओ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ty nie widziales czasami mojego ojca?",
+                     "indpol_sentence":  "चइ तइ निए वइजिअलएस चअसअमइ मओयएगओ ओयत्सअ?",
+                     "marpol_sentence":  "चइ तइ निए वइजिअलएस चअसअमइ मओयएगओ ओयत्सअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego ten shii^cy nie idzie po pieni^dze?",
+                     "indpol_sentence":  "दलअचएगओ तएन सहइइत्सइ निए इजिए पओ पइएनिजए?",
+                     "marpol_sentence":  "दलअचएगओ तएन सहइइत्सइ निए इजिए पओ पइएनिजए?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy on ma isc ptf pieni^dze!",
+                     "indpol_sentence":  "चइ ओन मअ इसत्स पतफ पइएनिजए!",
+                     "marpol_sentence":  "चइ ओन मअ इसत्स पतफ पइएनिजए!",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy dalbys mi dolara, gdybys go mial?",
+                     "indpol_sentence":  "चइ दअलबइस मइ दओलअरअ, गदइबइस गओ मइअल?",
+                     "marpol_sentence":  "चइ दअलबइस मइ दओलअरअ, गदइबइस गओ मइअल?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "les dla nie j .",
+                     "indpol_sentence":  "लएस दलअ निए य .",
+                     "marpol_sentence":  "लएस दलअ निए य .",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pan nie ma troch§ drobnych przy sobie ?",
+                     "indpol_sentence":  "चइ पअन निए मअ तरओख दरओबनइख पझइ सओबइए ?",
+                     "marpol_sentence":  "चइ पअन निए मअ तरओख दरओबनइख पझइ सओबइए ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "komu nie nie dal?",
+                     "indpol_sentence":  "कओमउ निए निए दअल?",
+                     "marpol_sentence":  "कओमउ निए निए दअल?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Ktora godzina jest teraz?",
+                     "indpol_sentence":  "कतओरअ गओजिनअ यएसत तएरअज़?",
+                     "marpol_sentence":  "कतओरअ गओजिनअ यएसत तएरअज़?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Ty nigdy nie wiesz, ktora godzina",
+                     "indpol_sentence":  "तइ निगदइ निए वइएश, कतओरअ गओजिनअ",
+                     "marpol_sentence":  "तइ निगदइ निए वइएश, कतओरअ गओजिनअ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Teraz jest pierwsza (p\u0027yairv\u0027shah) godzina.",
+                     "indpol_sentence":  "तएरअज़ यएसत पइएरवशअ (प\u0027इअइरव\u0027सहअह) गओजिनअ.",
+                     "marpol_sentence":  "तएरअज़ यएसत पइएरवशअ (प\u0027इअइरव\u0027सहअह) गओजिनअ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy oil tu byi o pierwszej god^nie?",
+                     "indpol_sentence":  "चइ ओइल तउ बइइ ओ पइएरवशएय गओदनिए?",
+                     "marpol_sentence":  "चइ ओइल तउ बइइ ओ पइएरवशएय गओदनिए?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Tak, ale pana nie bylo w domu .",
+                     "indpol_sentence":  "तअक, अलए पअनअ निए बइलओ व दओमउ .",
+                     "marpol_sentence":  "तअक, अलए पअनअ निए बइलओ व दओमउ .",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy teraz jest druga (droo\u0027gah) ?",
+                     "indpol_sentence":  "चइ तएरअज़ यएसत दरउगअ (दरओओ\u0027गअह) ?",
+                     "marpol_sentence":  "चइ तएरअज़ यएसत दरउगअ (दरओओ\u0027गअह) ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pani wie, ktory czlowiek mowil pani, ze te-",
+                     "indpol_sentence":  "चइ पअनि वइए, कतओरइ चलओवइएक मओवइल पअनि, ज़ए तए-",
+                     "marpol_sentence":  "चइ पअनि वइए, कतओरइ चलओवइएक मओवइल पअनि, ज़ए तए-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pan jest pewny, ze pan dal mi pi§c dola-",
+                     "indpol_sentence":  "चइ पअन यएसत पएवनइ, ज़ए पअन दअल मइ पइत्स दओलअ-",
+                     "marpol_sentence":  "चइ पअन यएसत पएवनइ, ज़ए पअन दअल मइ पइत्स दओलअ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "On nie jest bardzo pewny siebie.",
+                     "indpol_sentence":  "ओन निए यएसत बअरजओ पएवनइ शिएबइए.",
+                     "marpol_sentence":  "ओन निए यएसत बअरजओ पएवनइ शिएबइए.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "On mnie wybil z,a nie.",
+                     "indpol_sentence":  "ओन मनिए वइबइल ज़,अ निए.",
+                     "marpol_sentence":  "ओन मनिए वइबइल ज़,अ निए.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy wiesz, ze bylem w twoj em domu dzisiaj ?",
+                     "indpol_sentence":  "चइ वइएश, ज़ए बइलएम व तवओय एम दओमउ जिशिअय ?",
+                     "marpol_sentence":  "चइ वइएश, ज़ए बइलएम व तवओय एम दओमउ जिशिअय ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Balem si§, ze ci§ nie zastan?",
+                     "indpol_sentence":  "बअलएम शि, ज़ए चि निए ज़असतअन?",
+                     "marpol_sentence":  "बअलएम शि, ज़ए चि निए ज़असतअन?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "No, i na pewno mnie nie zastales.",
+                     "indpol_sentence":  "नओ, इ नअ पएवनओ मनिए निए ज़असतअलएस.",
+                     "marpol_sentence":  "नओ, इ नअ पएवनओ मनिए निए ज़असतअलएस.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy nie wiesz, ktora godzina jest?",
+                     "indpol_sentence":  "चइ निए वइएश, कतओरअ गओजिनअ यएसत?",
+                     "marpol_sentence":  "चइ निए वइएश, कतओरअ गओजिनअ यएसत?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Ty nigdy nie wiesz^ ktora godzina jest.",
+                     "indpol_sentence":  "तइ निगदइ निए वइएश कतओरअ गओजिनअ यएसत.",
+                     "marpol_sentence":  "तइ निगदइ निए वइएश कतओरअ गओजिनअ यएसत.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ofti o tern wiedza?",
+                     "indpol_sentence":  "चइ ओफतइ ओ तएरन वइएजअ?",
+                     "marpol_sentence":  "चइ ओफतइ ओ तएरन वइएजअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy twoj przyjaciel wie, ze ciebie nie ma w",
+                     "indpol_sentence":  "चइ तवओय पझइयअचिएल वइए, ज़ए चिएबइए निए मअ व",
+                     "marpol_sentence":  "चइ तवओय पझइयअचिएल वइए, ज़ए चिएबइए निए मअ व",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "b§d§ w domu dopiero jutro, o siodmej godzi-",
+                     "indpol_sentence":  "बद व दओमउ दओपइएरओ यउतरओ, ओ शिओदमएय गओजि-",
+                     "marpol_sentence":  "बद व दओमउ दओपइएरओ यउतरओ, ओ शिओदमएय गओजि-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ty wiesz, ze twoj s^siad ma tyle pienigdzy,",
+                     "indpol_sentence":  "चइ तइ वइएश, ज़ए तवओय सशिअद मअ तइलए पइएनिगजइ,",
+                     "marpol_sentence":  "चइ तइ वइएश, ज़ए तवओय सशिअद मअ तइलए पइएनिगजइ,",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego nie pozwoloho ci wejsc...",
+                     "indpol_sentence":  "दलअचएगओ निए पओज़वओलओहओ चि वएयसत्स...",
+                     "marpol_sentence":  "दलअचएगओ निए पओज़वओलओहओ चि वएयसत्स...",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie pozwolono mu wyjsc z domu.",
+                     "indpol_sentence":  "निए पओज़वओलओनओ मउ वइयसत्स ज़ दओमउ.",
+                     "marpol_sentence":  "निए पओज़वओलओनओ मउ वइयसत्स ज़ दओमउ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego ci nie pozwolono?",
+                     "indpol_sentence":  "दलअचएगओ चि निए पओज़वओलओनओ?",
+                     "marpol_sentence":  "दलअचएगओ चि निए पओज़वओलओनओ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ci nie pozwolono tarn wejsc?",
+                     "indpol_sentence":  "चइ चि निए पओज़वओलओनओ तअरन वएयसत्स?",
+                     "marpol_sentence":  "चइ चि निए पओज़वओलओनओ तअरन वएयसत्स?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego nie mam wejsc.",
+                     "indpol_sentence":  "दलअचएगओ निए मअम वएयसत्स.",
+                     "marpol_sentence":  "दलअचएगओ निए मअम वएयसत्स.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Jutro pozwd§ ci, lecz dzisiaj nie.",
+                     "indpol_sentence":  "यउतरओ पओज़वद चि, लएच जिशिअय निए.",
+                     "marpol_sentence":  "यउतरओ पओज़वद चि, लएच जिशिअय निए.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dla czego nie pozwolono twemu bratu wejsc",
+                     "indpol_sentence":  "दलअ चएगओ निए पओज़वओलओनओ तवएमउ बरअतउ वएयसत्स",
+                     "marpol_sentence":  "दलअ चएगओ निए पओज़वओलओनओ तवएमउ बरअतउ वएयसत्स",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy twoj przyjaciel ma osp§?",
+                     "indpol_sentence":  "चइ तवओय पझइयअचिएल मअ ओसप?",
+                     "marpol_sentence":  "चइ तवओय पझइयअचिएल मअ ओसप?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Moj brat jest w tym pokoju.",
+                     "indpol_sentence":  "मओय बरअत यएसत व तइम पओकओयउ.",
+                     "marpol_sentence":  "मओय बरअत यएसत व तइम पओकओयउ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "gdzie byla ospa.",
+                     "indpol_sentence":  "गजिए बइलअ ओसपअ.",
+                     "marpol_sentence":  "गजिए बइलअ ओसपअ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ty wiesz, ze moj ojciec ma osp§?",
+                     "indpol_sentence":  "चइ तइ वइएश, ज़ए मओय ओयचिएत्स मअ ओसप?",
+                     "marpol_sentence":  "चइ तइ वइएश, ज़ए मओय ओयचिएत्स मअ ओसप?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy wiesz, ze ospa jest zarazliw^?",
+                     "indpol_sentence":  "चइ वइएश, ज़ए ओसपअ यएसत ज़अरअज़लइव?",
+                     "marpol_sentence":  "चइ वइएश, ज़ए ओसपअ यएसत ज़अरअज़लइव?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Teraz tyle ludzi nie umiera na osp§ jak po-",
+                     "indpol_sentence":  "तएरअज़ तइलए लउजि निए उमइएरअ नअ ओसप यअक पओ-",
+                     "marpol_sentence":  "तएरअज़ तइलए लउजि निए उमइएरअ नअ ओसप यअक पओ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pan nie wie, ze tarn nie wolno wchodzic?",
+                     "indpol_sentence":  "चइ पअन निए वइए, ज़ए तअरन निए वओलनओ वखओजित्स?",
+                     "marpol_sentence":  "चइ पअन निए वइए, ज़ए तअरन निए वओलनओ वखओजित्स?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie moge, czytac bez ksi^zki.",
+                     "indpol_sentence":  "निए मओगए, चइतअत्स बएज़ कशिज़कइ.",
+                     "marpol_sentence":  "निए मओगए, चइतअत्स बएज़ कशिज़कइ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Jest o glowe, wie.kszy.",
+                     "indpol_sentence":  "यएसत ओ गलओवए, वइए.कशइ.",
+                     "marpol_sentence":  "यएसत ओ गलओवए, वइए.कशइ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "On jest zly z natury.",
+                     "indpol_sentence":  "ओन यएसत ज़लइ ज़ नअतउरइ.",
+                     "marpol_sentence":  "ओन यएसत ज़लइ ज़ नअतउरइ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Pan Zaleski, Pan",
+                     "indpol_sentence":  "पअन ज़अलएसकइ, पअन",
+                     "marpol_sentence":  "पअन ज़अलएसकइ, पअन",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Jan, Pan Jan Zaleski.",
+                     "indpol_sentence":  "यअन, पअन यअन ज़अलएसकइ.",
+                     "marpol_sentence":  "यअन, पअन यअन ज़अलएसकइ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pani rozumie po angielsku ?",
+                     "indpol_sentence":  "चइ पअनि रओज़उमइए पओ अनगइएलसकउ ?",
+                     "marpol_sentence":  "चइ पअनि रओज़उमइए पओ अनगइएलसकउ ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy mowi tu kto po polsku?",
+                     "indpol_sentence":  "चइ मओवइ तउ कतओ पओ पओलसकउ?",
+                     "marpol_sentence":  "चइ मओवइ तउ कतओ पओ पओलसकउ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dziekuje Panu, Pani, Pani (Jane-koo\u0027-",
+                     "indpol_sentence":  "जिएकउयए पअनउ, पअनि, पअनि (यअनए-कओओ\u0027-",
+                     "marpol_sentence":  "जिएकउयए पअनउ, पअनि, पअनि (यअनए-कओओ\u0027-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Jak sie Pan, Pani ma?",
+                     "indpol_sentence":  "यअक शिए पअन, पअनि मअ?",
+                     "marpol_sentence":  "यअक शिए पअन, पअनि मअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Jak sie Pan nazywa ?",
+                     "indpol_sentence":  "यअक शिए पअन नअज़इवअ ?",
+                     "marpol_sentence":  "यअक शिए पअन नअज़इवअ ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy uczyni mi Pan t§ laske.?",
+                     "indpol_sentence":  "चइ उचइनि मइ पअन त लअसकए.?",
+                     "marpol_sentence":  "चइ उचइनि मइ पअन त लअसकए.?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "tego, co Pan dla",
+                     "indpol_sentence":  "तएगओ, त्सओ पअन दलअ",
+                     "marpol_sentence":  "तएगओ, त्सओ पअन दलअ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "boo?) Czy nie ma innych srodkow?",
+                     "indpol_sentence":  "बओओ?) चइ निए मअ इननइख सरओदकओव?",
+                     "marpol_sentence":  "बओओ?) चइ निए मअ इननइख सरओदकओव?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Prawie nie moge, wierzyc Panu (Prah\u0027-",
+                     "indpol_sentence":  "परअवइए निए मओगए, वइएझइत्स पअनउ (परअह\u0027-",
+                     "marpol_sentence":  "परअवइए निए मओगए, वइएझइत्स पअनउ (परअह\u0027-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nothing could make Nie by mnie nie moglo wi§cej uszcze.-",
+                     "indpol_sentence":  "नओतहइनग त्सओउलद मअकए निए बइ मनिए निए मओगलओ वइत्सएय उश्चए.-",
+                     "marpol_sentence":  "नओतहइनग त्सओउलद मअकए निए बइ मनिए निए मओगलओ वइत्सएय उश्चए.-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego si§ Pan na mnie gniewa?",
+                     "indpol_sentence":  "दलअचएगओ शि पअन नअ मनिए गनिएवअ?",
+                     "marpol_sentence":  "दलअचएगओ शि पअन नअ मनिए गनिएवअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie musisz si§ gniewac na niego",
+                     "indpol_sentence":  "निए मउशिश शि गनिएवअत्स नअ निएगओ",
+                     "marpol_sentence":  "निए मउशिश शि गनिएवअत्स नअ निएगओ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Co Panu jest?",
+                     "indpol_sentence":  "त्सओ पअनउ यएसत?",
+                     "marpol_sentence":  "त्सओ पअनउ यएसत?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Gdzie byles wczoraj wieczor, zeszlego",
+                     "indpol_sentence":  "गजिए बइलएस वचओरअय वइएचओर, ज़एशलएगओ",
+                     "marpol_sentence":  "गजिए बइलएस वचओरअय वइएचओर, ज़एशलएगओ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Gdzie idziesz dzis wieczor?",
+                     "indpol_sentence":  "गजिए इजिएश जिस वइएचओर?",
+                     "marpol_sentence":  "गजिए इजिएश जिस वइएचओर?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego nie pracujesz dzisiaj ?",
+                     "indpol_sentence":  "दलअचएगओ निए परअत्सउयएश जिशिअय ?",
+                     "marpol_sentence":  "दलअचएगओ निए परअत्सउयएश जिशिअय ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Kiedy 33, twoje urodziny?",
+                     "indpol_sentence":  "कइएदइ 33, तवओयए उरओजिनइ?",
+                     "marpol_sentence":  "कइएदइ 33, तवओयए उरओजिनइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pracujesz w nocy?",
+                     "indpol_sentence":  "चइ परअत्सउयएश व नओत्सइ?",
+                     "marpol_sentence":  "चइ परअत्सउयएश व नओत्सइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy deszcz jeszcze pada?",
+                     "indpol_sentence":  "चइ दएश्च यएश्चए पअदअ?",
+                     "marpol_sentence":  "चइ दएश्च यएश्चए पअदअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Niebo bylo tak pogodne, ze nie przy-",
+                     "indpol_sentence":  "निएबओ बइलओ तअक पओगओदनए, ज़ए निए पझइ-",
+                     "marpol_sentence":  "निएबओ बइलओ तअक पओगओदनए, ज़ए निए पझइ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy sniadanie jest gotowe?",
+                     "indpol_sentence":  "चइ सनिअदअनिए यएसत गओतओवए?",
+                     "marpol_sentence":  "चइ सनिअदअनिए यएसत गओतओवए?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy obiad jest gotowy?",
+                     "indpol_sentence":  "चइ ओबइअद यएसत गओतओवइ?",
+                     "marpol_sentence":  "चइ ओबइअद यएसत गओतओवइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pijesz herbate.",
+                     "indpol_sentence":  "चइ पइयएश हएरबअतए.",
+                     "marpol_sentence":  "चइ पइयएश हएरबअतए.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy lubisz mocna.",
+                     "indpol_sentence":  "चइ लउबइश मओत्सनअ.",
+                     "marpol_sentence":  "चइ लउबइश मओत्सनअ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Ten chleb jest czerstwy, czy nie ma",
+                     "indpol_sentence":  "तएन खलएब यएसत चएरसतवइ, चइ निए मअ",
+                     "marpol_sentence":  "तएन खलएब यएसत चएरसतवइ, चइ निए मअ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Pszenny czy zytni chleb?",
+                     "indpol_sentence":  "पशएननइ चइ ज़इतनि खलएब?",
+                     "marpol_sentence":  "पशएननइ चइ ज़इतनि खलएब?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy chce Pan miec je krotko ostrzy-",
+                     "indpol_sentence":  "चइ खत्सए पअन मइएत्स यए करओतकओ ओसतझइ-",
+                     "marpol_sentence":  "चइ खत्सए पअन मइएत्स यए करओतकओ ओसतझइ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pan History?",
+                     "indpol_sentence":  "चइ मअ पअन हइसतओरइ?",
+                     "marpol_sentence":  "चइ मअ पअन हइसतओरइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Pan, ze jest",
+                     "indpol_sentence":  "पअन, ज़ए यएसत",
+                     "marpol_sentence":  "पअन, ज़ए यएसत",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Znajdzie ich Pan przy roz-",
+                     "indpol_sentence":  "ज़नअयजिए इख पअन पझइ रओज़-",
+                     "marpol_sentence":  "ज़नअयजिए इख पअन पझइ रओज़-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pan ksia.zki dla dzieci?",
+                     "indpol_sentence":  "चइ मअ पअन कशिअ.ज़कइ दलअ जिएचि?",
+                     "marpol_sentence":  "चइ मअ पअन कशिअ.ज़कइ दलअ जिएचि?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pan nuty na fortepian,",
+                     "indpol_sentence":  "चइ मअ पअन नउतइ नअ फओरतएपइअन,",
+                     "marpol_sentence":  "चइ मअ पअन नउतइ नअ फओरतएपइअन,",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pan ma dobre kury, kaczki, g^si?",
+                     "indpol_sentence":  "चइ पअन मअ दओबरए कउरइ, कअचकइ, गशि?",
+                     "marpol_sentence":  "चइ पअन मअ दओबरए कउरइ, कअचकइ, गशि?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Byle jakie, byle nie byly za mocne",
+                     "indpol_sentence":  "बइलए यअकइए, बइलए निए बइलइ ज़अ मओत्सनए",
+                     "marpol_sentence":  "बइलए यअकइए, बइलए निए बइलइ ज़अ मओत्सनए",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ty nie palisz papierosow?",
+                     "indpol_sentence":  "चइ तइ निए पअलइश पअपइएरओसओव?",
+                     "marpol_sentence":  "चइ तइ निए पअलइश पअपइएरओसओव?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Palenie jest zawsze szkodliwe, lecz nie",
+                     "indpol_sentence":  "पअलएनिए यएसत ज़अवशए शकओदलइवए, लएच निए",
+                     "marpol_sentence":  "पअलएनिए यएसत ज़अवशए शकओदलइवए, लएच निए",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pani cierpi na bol glowy?",
+                     "indpol_sentence":  "चइ पअनि चिएरपइ नअ बओल गलओवइ?",
+                     "marpol_sentence":  "चइ पअनि चिएरपइ नअ बओल गलओवइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Od trzech dni nie nie jadtem (Awd",
+                     "indpol_sentence":  "ओद तझएख दनि निए निए यअदतएम (अवद",
+                     "marpol_sentence":  "ओद तझएख दनि निए निए यअदतएम (अवद",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "nie slepej kiszki, polipa w nosie",
+                     "indpol_sentence":  "निए सलएपएय कइशकइ, पओलइपअ व नओशिए",
+                     "marpol_sentence":  "निए सलएपएय कइशकइ, पओलइपअ व नओशिए",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pre.dko wyzdrowieje,, Panic dok-",
+                     "indpol_sentence":  "चइ परए.दकओ वइज़दरओवइएयए,, पअनित्स दओक-",
+                     "marpol_sentence":  "चइ परए.दकओ वइज़दरओवइएयए,, पअनित्स दओक-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie powinien Pan jesc surowego mie.-",
+                     "indpol_sentence":  "निए पओवइनिएन पअन यएसत्स सउरओवएगओ मइए.-",
+                     "marpol_sentence":  "निए पओवइनिएन पअन यएसत्स सउरओवएगओ मइए.-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Jezeli Pan nie ma srodkow, aby sie.",
+                     "indpol_sentence":  "यएज़एलइ पअन निए मअ सरओदकओव, अबइ शिए.",
+                     "marpol_sentence":  "यएज़एलइ पअन निए मअ सरओदकओव, अबइ शिए.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "little water, but not troche, wody, lecz nie wody z lodu",
+                     "indpol_sentence":  "लइततलए वअतएर, बउत नओत तरओखए, वओदइ, लएच निए वओदइ ज़ लओदउ",
+                     "marpol_sentence":  "लइततलए वअतएर, बउत नओत तरओखए, वओदइ, लएच निए वओदइ ज़ लओदउ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "A germ cannot be Nie mozna zarodka widzied goJem o-",
+                     "indpol_sentence":  "अ गएरम त्सअननओत बए निए मओज़नअ ज़अरओदकअ वइजिएद गओयएम ओ-",
+                     "marpol_sentence":  "अ गएरम त्सअननओत बए निए मओज़नअ ज़अरओदकअ वइजिएद गओयएम ओ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "zrobic tak jak Pani sobie zyczy",
+                     "indpol_sentence":  "ज़रओबइत्स तअक यअक पअनि सओबइए ज़इचइ",
+                     "marpol_sentence":  "ज़रओबइत्स तअक यअक पअनि सओबइए ज़इचइ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pani zyczy sobie miec sukni^ o-",
+                     "indpol_sentence":  "चइ पअनि ज़इचइ सओबइए मइएत्स सउकनि ओ-",
+                     "marpol_sentence":  "चइ पअनि ज़इचइ सओबइए मइएत्स सउकनि ओ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Polegam zupelnie na guscie Pani",
+                     "indpol_sentence":  "पओलएगअम ज़उपएलनिए नअ गउसचिए पअनि",
+                     "marpol_sentence":  "पओलएगअम ज़उपएलनिए नअ गउसचिए पअनि",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pani sa.dzi, ze Pani j^",
+                     "indpol_sentence":  "चइ पअनि सअ.जि, ज़ए पअनि य",
+                     "marpol_sentence":  "चइ पअनि सअ.जि, ज़ए पअनि य",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Stanik jest za ciasny, za szeroki",
+                     "indpol_sentence":  "सतअनिक यएसत ज़अ चिअसनइ, ज़अ शएरओकइ",
+                     "marpol_sentence":  "सतअनिक यएसत ज़अ चिअसनइ, ज़अ शएरओकइ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Stan jest za krotki (Stahn yest zah",
+                     "indpol_sentence":  "सतअन यएसत ज़अ करओतकइ (सतअहन इएसत ज़अह",
+                     "marpol_sentence":  "सतअन यएसत ज़अ करओतकइ (सतअहन इएसत ज़अह",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Spodnica jest za dhiga, za krotka",
+                     "indpol_sentence":  "सपओदनित्सअ यएसत ज़अ दहइगअ, ज़अ करओतकअ",
+                     "marpol_sentence":  "सपओदनित्सअ यएसत ज़अ दहइगअ, ज़अ करओतकअ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Mam nadziej^, ze Pani jest zadowol-",
+                     "indpol_sentence":  "मअम नअजिएय, ज़ए पअनि यएसत ज़अदओवओल-",
+                     "marpol_sentence":  "मअम नअजिएय, ज़ए पअनि यएसत ज़अदओवओल-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Moze mnie Pani uwazac za",
+                     "indpol_sentence":  "मओज़ए मनिए पअनि उवअज़अत्स ज़अ",
+                     "marpol_sentence":  "मओज़ए मनिए पअनि उवअज़अत्स ज़अ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pan recept§ od doktora?",
+                     "indpol_sentence":  "चइ मअ पअन रएत्सएपत ओद दओकतओरअ?",
+                     "marpol_sentence":  "चइ मअ पअन रएत्सएपत ओद दओकतओरअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Kiedy b^dzie gotowe moje lekarstwo?",
+                     "indpol_sentence":  "कइएदइ बजिए गओतओवए मओयए लएकअरसतवओ?",
+                     "marpol_sentence":  "कइएदइ बजिए गओतओवए मओयए लएकअरसतवओ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pan jaki dobry srodek przed-",
+                     "indpol_sentence":  "चइ मअ पअन यअकइ दओबरइ सरओदएक पझएद-",
+                     "marpol_sentence":  "चइ मअ पअन यअकइ दओबरइ सरओदएक पझएद-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy mozna tu dostac wody mineralnej",
+                     "indpol_sentence":  "चइ मओज़नअ तउ दओसतअत्स वओदइ मइनएरअलनएय",
+                     "marpol_sentence":  "चइ मओज़नअ तउ दओसतअत्स वओदइ मइनएरअलनएय",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pan ma swieze maslo, jaja?",
+                     "indpol_sentence":  "चइ पअन मअ सवइएज़ए मअसलओ, यअयअ?",
+                     "marpol_sentence":  "चइ पअन मअ सवइएज़ए मअसलओ, यअयअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "I am very sorry, I Bardzo mi przykro, ze nie mam zad-",
+                     "indpol_sentence":  "इ अम वएरइ सओररइ, इ बअरजओ मइ पझइकरओ, ज़ए निए मअम ज़अद-",
+                     "marpol_sentence":  "इ अम वएरइ सओररइ, इ बअरजओ मइ पझइकरओ, ज़ए निए मअम ज़अद-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pan brzytwy?",
+                     "indpol_sentence":  "चइ मअ पअन बझइतवइ?",
+                     "marpol_sentence":  "चइ मअ पअन बझइतवइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pani jakie dowody, ze on u-",
+                     "indpol_sentence":  "चइ मअ पअनि यअकइए दओवओदइ, ज़ए ओन उ-",
+                     "marpol_sentence":  "चइ मअ पअनि यअकइए दओवओदइ, ज़ए ओन उ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pan s^dzi, ze mam dostateczne",
+                     "indpol_sentence":  "चइ पअन सजि, ज़ए मअम दओसतअतएचनए",
+                     "marpol_sentence":  "चइ पअन सजि, ज़ए मअम दओसतअतएचनए",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy mial Pan jaki wypadek?",
+                     "indpol_sentence":  "चइ मइअल पअन यअकइ वइपअदएक?",
+                     "marpol_sentence":  "चइ मइअल पअन यअकइ वइपअदएक?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Was there nobody on Czy nie bylo kogo na tej ulicy, gdzie",
+                     "indpol_sentence":  "वअस तहएरए नओबओदइ ओन चइ निए बइलओ कओगओ नअ तएय उलइत्सइ, गजिए",
+                     "marpol_sentence":  "वअस तहएरए नओबओदइ ओन चइ निए बइलओ कओगओ नअ तएय उलइत्सइ, गजिए",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Was anybody else Czy by!",
+                     "indpol_sentence":  "वअस अनइबओदइ एलसए चइ बइ!",
+                     "marpol_sentence":  "वअस अनइबओदइ एलसए चइ बइ!",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "kto inny obecny, gdy Pan re-",
+                     "indpol_sentence":  "कतओ इननइ ओबएत्सनइ, गदइ पअन रए-",
+                     "marpol_sentence":  "कतओ इननइ ओबएत्सनइ, गदइ पअन रए-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pani jakie ubrane rozami?",
+                     "indpol_sentence":  "चइ मअ पअनि यअकइए उबरअनए रओज़अमइ?",
+                     "marpol_sentence":  "चइ मअ पअनि यअकइए उबरअनए रओज़अमइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pani ma swoje wlasne ozdoby,",
+                     "indpol_sentence":  "चइ पअनि मअ सवओयए वलअसनए ओज़दओबइ,",
+                     "marpol_sentence":  "चइ पअनि मअ सवओयए वलअसनए ओज़दओबइ,",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "lub czy tez ja mam je dostarczyc?",
+                     "indpol_sentence":  "लउब चइ तएज़ यअ मअम यए दओसतअरचइत्स?",
+                     "marpol_sentence":  "लउब चइ तएज़ यअ मअम यए दओसतअरचइत्स?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "checkered, striped, kie czy w deseii?",
+                     "indpol_sentence":  "खएत्सकएरएद, सतरइपएद, कइए चइ व दएसएइइ?",
+                     "marpol_sentence":  "खएत्सकएरएद, सतरइपएद, कइए चइ व दएसएइइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy moze Pani rzeczy te odeslac?",
+                     "indpol_sentence":  "चइ मओज़ए पअनि झएचइ तए ओदएसलअत्स?",
+                     "marpol_sentence":  "चइ मओज़ए पअनि झएचइ तए ओदएसलअत्स?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pan pieczon^ kure., kaczke.,",
+                     "indpol_sentence":  "चइ मअ पअन पइएचओन कउरए., कअचकए.,",
+                     "marpol_sentence":  "चइ मअ पअन पइएचओन कउरए., कअचकए.,",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy nie macie pstr^ga lub lina?",
+                     "indpol_sentence":  "चइ निए मअचिए पसतरगअ लउब लइनअ?",
+                     "marpol_sentence":  "चइ निए मअचिए पसतरगअ लउब लइनअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy moze mi Pan przyniesc kilka sar-",
+                     "indpol_sentence":  "चइ मओज़ए मइ पअन पझइनिएसत्स कइलकअ सअर-",
+                     "marpol_sentence":  "चइ मओज़ए मइ पअन पझइनिएसत्स कइलकअ सअर-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Kelner, tu jest cos dla was (Kel\u0027nair,",
+                     "indpol_sentence":  "कएलनएर, तउ यएसत त्सओस दलअ वअस (कएल\u0027नअइर,",
+                     "marpol_sentence":  "कएलनएर, तउ यएसत त्सओस दलअ वअस (कएल\u0027नअइर,",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pan nie potrzebuje niczego wie.-",
+                     "indpol_sentence":  "चइ पअन निए पओतझएबउयए निचएगओ वइए.-",
+                     "marpol_sentence":  "चइ पअन निए पओतझएबउयए निचएगओ वइए.-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy nie ma",
+                     "indpol_sentence":  "चइ निए मअ",
+                     "marpol_sentence":  "चइ निए मअ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pan na sprzedaz materjaly",
+                     "indpol_sentence":  "चइ मअ पअन नअ सपझएदअज़ मअतएरयअलइ",
+                     "marpol_sentence":  "चइ मअ पअन नअ सपझएदअज़ मअतएरयअलइ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "lie Pan za.da za ten scyzoryk?",
+                     "indpol_sentence":  "लइए पअन ज़अ.दअ ज़अ तएन सत्सइज़ओरइक?",
+                     "marpol_sentence":  "लइए पअन ज़अ.दअ ज़अ तएन सत्सइज़ओरइक?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Tu jest jeden z dwoma nozykami i ma-",
+                     "indpol_sentence":  "तउ यएसत यएदएन ज़ दवओमअ नओज़इकअमइ इ मअ-",
+                     "marpol_sentence":  "तउ यएसत यएदएन ज़ दवओमअ नओज़इकअमइ इ मअ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy przyjmuje Pan zamowienia na",
+                     "indpol_sentence":  "चइ पझइयमउयए पअन ज़अमओवइएनिअ नअ",
+                     "marpol_sentence":  "चइ पझइयमउयए पअन ज़अमओवइएनिअ नअ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Sznurowane czy na guziki (Shnoo-",
+                     "indpol_sentence":  "शनउरओवअनए चइ नअ गउज़िकइ (सहनओओ-",
+                     "marpol_sentence":  "शनउरओवअनए चइ नअ गउज़िकइ (सहनओओ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dziekuje, Panu, nie chc§ dosta6 na-",
+                     "indpol_sentence":  "जिएकउयए, पअनउ, निए खत्स दओसतअ6 नअ-",
+                     "marpol_sentence":  "जिएकउयए, पअनउ, निए खत्स दओसतअ6 नअ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy pan ma materjal, czy tez musze.",
+                     "indpol_sentence":  "चइ पअन मअ मअतएरयअल, चइ तएज़ मउशए.",
+                     "marpol_sentence":  "चइ पअन मअ मअतएरयअल, चइ तएज़ मउशए.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "I think half silk wears S^dze,, ze pot jedwabna jest trwalsza",
+                     "indpol_sentence":  "इ तहइनक हअलफ शिलक वएअरस सजए,, ज़ए पओत यएदवअबनअ यएसत तरवअलशअ",
+                     "marpol_sentence":  "इ तहइनक हअलफ शिलक वएअरस सजए,, ज़ए पओत यएदवअबनअ यएसत तरवअलशअ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy by Pan go wymienil na inny?",
+                     "indpol_sentence":  "चइ बइ पअन गओ वइमइएनिल नअ इननइ?",
+                     "marpol_sentence":  "चइ बइ पअन गओ वइमइएनिल नअ इननइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pan ma zegarki w pojedynczej",
+                     "indpol_sentence":  "चइ पअन मअ ज़एगअरकइ व पओयएदइनचएय",
+                     "marpol_sentence":  "चइ पअन मअ ज़एगअरकइ व पओयएदइनचएय",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "lie Pan za.da za te.",
+                     "indpol_sentence":  "लइए पअन ज़अ.दअ ज़अ तए.",
+                     "marpol_sentence":  "लइए पअन ज़अ.दअ ज़अ तए.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Przybywam z Polski pod zaborem nie-",
+                     "indpol_sentence":  "पझइबइवअम ज़ पओलसकइ पओद ज़अबओरएम निए-",
+                     "marpol_sentence":  "पझइबइवअम ज़ पओलसकइ पओद ज़अबओरएम निए-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego Pan opuscil swoj kraj?",
+                     "indpol_sentence":  "दलअचएगओ पअन ओपउसचिल सवओय करअय?",
+                     "marpol_sentence":  "दलअचएगओ पअन ओपउसचिल सवओय करअय?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Gdzie oni mieszkaja.?",
+                     "indpol_sentence":  "गजिए ओनि मइएशकअयअ.?",
+                     "marpol_sentence":  "गजिए ओनि मइएशकअयअ.?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pan nie wie, gdzie dokladnie?",
+                     "indpol_sentence":  "चइ पअन निए वइए, गजिए दओकलअदनिए?",
+                     "marpol_sentence":  "चइ पअन निए वइए, गजिए दओकलअदनिए?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pan nieco pienie.dzy?",
+                     "indpol_sentence":  "चइ मअ पअन निएत्सओ पइएनिए.जइ?",
+                     "marpol_sentence":  "चइ मअ पअन निएत्सओ पइएनिए.जइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy umie Pan czytac i pisac?",
+                     "indpol_sentence":  "चइ उमइए पअन चइतअत्स इ पइसअत्स?",
+                     "marpol_sentence":  "चइ उमइए पअन चइतअत्स इ पइसअत्स?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pan paszport?",
+                     "indpol_sentence":  "चइ मअ पअन पअशपओरत?",
+                     "marpol_sentence":  "चइ मअ पअन पअशपओरत?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy kto w tym kraju przyrzekl Panu",
+                     "indpol_sentence":  "चइ कतओ व तइम करअयउ पझइझएकल पअनउ",
+                     "marpol_sentence":  "चइ कतओ व तइम करअयउ पझइझएकल पअनउ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Na milosc Boga, nie odsylajcie mnie.",
+                     "indpol_sentence":  "नअ मइलओसत्स बओगअ, निए ओदसइलअयचिए मनिए.",
+                     "marpol_sentence":  "नअ मइलओसत्स बओगअ, निए ओदसइलअयचिए मनिए.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pana przyjaciele poslali po Pana?",
+                     "indpol_sentence":  "चइ पअनअ पझइयअचिएलए पओसलअलइ पओ पअनअ?",
+                     "marpol_sentence":  "चइ पअनअ पझइयअचिएलए पओसलअलइ पओ पअनअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Jak si§ Pan nazywa (Yahk sheh",
+                     "indpol_sentence":  "यअक शि पअन नअज़इवअ (इअहक सहएह",
+                     "marpol_sentence":  "यअक शि पअन नअज़इवअ (इअहक सहएह",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Jak dhigo przebywa Pan w Ameryce ?",
+                     "indpol_sentence":  "यअक दहइगओ पझएबइवअ पअन व अमएरइत्सए ?",
+                     "marpol_sentence":  "यअक दहइगओ पझएबइवअ पअन व अमएरइत्सए ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pan papiery obywatelskie ?",
+                     "indpol_sentence":  "चइ मअ पअन पअपइएरइ ओबइवअतएलसकइए ?",
+                     "marpol_sentence":  "चइ मअ पअन पअपइएरइ ओबइवअतएलसकइए ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy zyczy Pan sobie zostac obywate-",
+                     "indpol_sentence":  "चइ ज़इचइ पअन सओबइए ज़ओसतअत्स ओबइवअतए-",
+                     "marpol_sentence":  "चइ ज़इचइ पअन सओबइए ज़ओसतअत्स ओबइवअतए-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pan zamierza zamieszkac tu w",
+                     "indpol_sentence":  "चइ पअन ज़अमइएझअ ज़अमइएशकअत्स तउ व",
+                     "marpol_sentence":  "चइ पअन ज़अमइएझअ ज़अमइएशकअत्स तउ व",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy popelnil Pan kiedy jak^, zbrodni§ ?",
+                     "indpol_sentence":  "चइ पओपएलनिल पअन कइएदइ यअक, ज़बरओदनि ?",
+                     "marpol_sentence":  "चइ पओपएलनिल पअन कइएदइ यअक, ज़बरओदनि ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy byl Pan kiedy uwi^ziony?",
+                     "indpol_sentence":  "चइ बइल पअन कइएदइ उवइज़िओनइ?",
+                     "marpol_sentence":  "चइ बइल पअन कइएदइ उवइज़िओनइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Pan jest swiadkiem i musi Pan powie.",
+                     "indpol_sentence":  "पअन यएसत सवइअदकइएम इ मउशि पअन पओवइए.",
+                     "marpol_sentence":  "पअन यएसत सवइअदकइएम इ मउशि पअन पओवइए.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Jezeli Pan sklamie po przysi^dze, be.-",
+                     "indpol_sentence":  "यएज़एलइ पअन सकलअमइए पओ पझइशिजए, बए.-",
+                     "marpol_sentence":  "यएज़एलइ पअन सकलअमइए पओ पझइशिजए, बए.-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pan widzial pods^dnego kiedy",
+                     "indpol_sentence":  "चइ पअन वइजिअल पओदसदनएगओ कइएदइ",
+                     "marpol_sentence":  "चइ पअन वइजिअल पओदसदनएगओ कइएदइ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pan go widzial 10-go Stycznia?",
+                     "indpol_sentence":  "चइ पअन गओ वइजिअल 10-गओ सतइचनिअ?",
+                     "marpol_sentence":  "चइ पअन गओ वइजिअल 10-गओ सतइचनिअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Gdzie go Pan widzial?",
+                     "indpol_sentence":  "गजिए गओ पअन वइजिअल?",
+                     "marpol_sentence":  "गजिए गओ पअन वइजिअल?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Co jest w tym kuferku?",
+                     "indpol_sentence":  "त्सओ यएसत व तइम कउफएरकउ?",
+                     "marpol_sentence":  "त्सओ यएसत व तइम कउफएरकउ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy jeszcze co?",
+                     "indpol_sentence":  "चइ यएश्चए त्सओ?",
+                     "marpol_sentence":  "चइ यएश्चए त्सओ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Ona nie jest nowa.",
+                     "indpol_sentence":  "ओनअ निए यएसत नओवअ.",
+                     "marpol_sentence":  "ओनअ निए यएसत नओवअ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy moge zamkna.c teraz kufry?",
+                     "indpol_sentence":  "चइ मओगए ज़अमकनअ.त्स तएरअज़ कउफरइ?",
+                     "marpol_sentence":  "चइ मओगए ज़अमकनअ.त्स तएरअज़ कउफरइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Wszystko w porza.dku .Moze Pan isc",
+                     "indpol_sentence":  "वशइसतकओ व पओझअ.दकउ .मओज़ए पअन इसत्स",
+                     "marpol_sentence":  "वशइसतकओ व पओझअ.दकउ .मओज़ए पअन इसत्स",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy tu jest biuro str^czefi pracy?",
+                     "indpol_sentence":  "चइ तउ यएसत बइउरओ सतरचएफइ परअत्सइ?",
+                     "marpol_sentence":  "चइ तउ यएसत बइउरओ सतरचएफइ परअत्सइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie wiele, lecz pracowalam dla Pani",
+                     "indpol_sentence":  "निए वइएलए, लएच परअत्सओवअलअम दलअ पअनि",
+                     "marpol_sentence":  "निए वइएलए, लएच परअत्सओवअलअम दलअ पअनि",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Gdzie Pan mieszka?",
+                     "indpol_sentence":  "गजिए पअन मइएशकअ?",
+                     "marpol_sentence":  "गजिए पअन मइएशकअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy mog§ mie6 dru-",
+                     "indpol_sentence":  "चइ मओग मइए6 दरउ-",
+                     "marpol_sentence":  "चइ मओग मइए6 दरउ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "strong czy zwrotny?",
+                     "indpol_sentence":  "सतरओनग चइ ज़वरओतनइ?",
+                     "marpol_sentence":  "सतरओनग चइ ज़वरओतनइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pan sobie zyczy pokoj frontowy,",
+                     "indpol_sentence":  "चइ पअन सओबइए ज़इचइ पओकओय फरओनतओवइ,",
+                     "marpol_sentence":  "चइ पअन सओबइए ज़इचइ पओकओय फरओनतओवइ,",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie dbam gdzie on jest, byle tylko byi",
+                     "indpol_sentence":  "निए दबअम गजिए ओन यएसत, बइलए तइलकओ बइइ",
+                     "marpol_sentence":  "निए दबअम गजिए ओन यएसत, बइलए तइलकओ बइइ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Musi Pan zaplacic z gory za pokoj",
+                     "indpol_sentence":  "मउशि पअन ज़अपलअचित्स ज़ गओरइ ज़अ पओकओय",
+                     "marpol_sentence":  "मउशि पअन ज़अपलअचित्स ज़ गओरइ ज़अ पओकओय",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy jest tu gaz?",
+                     "indpol_sentence":  "चइ यएसत तउ गअज़?",
+                     "marpol_sentence":  "चइ यएसत तउ गअज़?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Gdzie jest podworze?",
+                     "indpol_sentence":  "गजिए यएसत पओदवओझए?",
+                     "marpol_sentence":  "गजिए यएसत पओदवओझए?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy nie mo-",
+                     "indpol_sentence":  "चइ निए मओ-",
+                     "marpol_sentence":  "चइ निए मओ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Taryfa jest trzy centy od slowa (Tah-",
+                     "indpol_sentence":  "तअरइफअ यएसत तझइ त्सएनतइ ओद सलओवअ (तअह-",
+                     "marpol_sentence":  "तअरइफअ यएसत तझइ त्सएनतइ ओद सलओवअ (तअह-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy mog§ telegrafowac po polsku?",
+                     "indpol_sentence":  "चइ मओग तएलएगरअफओवअत्स पओ पओलसकउ?",
+                     "marpol_sentence":  "चइ मओग तएलएगरअफओवअत्स पओ पओलसकउ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Co Pani potrafi robic?",
+                     "indpol_sentence":  "त्सओ पअनि पओतरअफइ रओबइत्स?",
+                     "marpol_sentence":  "त्सओ पअनि पओतरअफइ रओबइत्स?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pani swiadectwo?",
+                     "indpol_sentence":  "चइ मअ पअनि सवइअदएत्सतवओ?",
+                     "marpol_sentence":  "चइ मअ पअनि सवइअदएत्सतवओ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy macie swiadectwo?",
+                     "indpol_sentence":  "चइ मअचिए सवइअदएत्सतवओ?",
+                     "marpol_sentence":  "चइ मअचिए सवइअदएत्सतवओ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy mog§ na Pani^ liczyc?",
+                     "indpol_sentence":  "चइ मओग नअ पअनि लइचइत्स?",
+                     "marpol_sentence":  "चइ मओग नअ पअनि लइचइत्स?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Bardzo dobrze, tu jest kosz z bielizn^",
+                     "indpol_sentence":  "बअरजओ दओबझए, तउ यएसत कओश ज़ बइएलइज़न",
+                     "marpol_sentence":  "बअरजओ दओबझए, तउ यएसत कओश ज़ बइएलइज़न",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "He Pani liczy za pranie?",
+                     "indpol_sentence":  "हए पअनि लइचइ ज़अ परअनिए?",
+                     "marpol_sentence":  "हए पअनि लइचइ ज़अ परअनिए?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy nie moze Pa-",
+                     "indpol_sentence":  "चइ निए मओज़ए पअ-",
+                     "marpol_sentence":  "चइ निए मओज़ए पअ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pani liczy co za naprawki?",
+                     "indpol_sentence":  "चइ पअनि लइचइ त्सओ ज़अ नअपरअवकइ?",
+                     "marpol_sentence":  "चइ पअनि लइचइ त्सओ ज़अ नअपरअवकइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dlaczego Pani nie wywabila tej pla-",
+                     "indpol_sentence":  "दलअचएगओ पअनि निए वइवअबइलअ तएय पलअ-",
+                     "marpol_sentence":  "दलअचएगओ पअनि निए वइवअबइलअ तएय पलअ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Kolnierze i mankiety u koszul nie wy-",
+                     "indpol_sentence":  "कओलनिएझए इ मअनकइएतइ उ कओशउल निए वइ-",
+                     "marpol_sentence":  "कओलनिएझए इ मअनकइएतइ उ कओशउल निए वइ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Musi Pani bye wi^cej ostrozna na dru-",
+                     "indpol_sentence":  "मउशि पअनि बइए वइत्सएय ओसतरओज़नअ नअ दरउ-",
+                     "marpol_sentence":  "मउशि पअनि बइए वइत्सएय ओसतरओज़नअ नअ दरउ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie lubi§ tak mocno na-",
+                     "indpol_sentence":  "निए लउबइ तअक मओत्सनओ नअ-",
+                     "marpol_sentence":  "निए लउबइ तअक मओत्सनओ नअ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Jestem bardzo zadowolona z Pani",
+                     "indpol_sentence":  "यएसतएम बअरजओ ज़अदओवओलओनअ ज़ पअनि",
+                     "marpol_sentence":  "यएसतएम बअरजओ ज़अदओवओलओनअ ज़ पअनि",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Pokladz te male rzeczy, gdzie one na-",
+                     "indpol_sentence":  "पओकलअज तए मअलए झएचइ, गजिए ओनए नअ-",
+                     "marpol_sentence":  "पओकलअज तए मअलए झएचइ, गजिए ओनए नअ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Gdzie ten postument nalezy?",
+                     "indpol_sentence":  "गजिए तएन पओसतउमएनत नअलएज़इ?",
+                     "marpol_sentence":  "गजिए तएन पओसतउमएनत नअलएज़इ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Gdzie jest miotla?",
+                     "indpol_sentence":  "गजिए यएसत मइओतलअ?",
+                     "marpol_sentence":  "गजिए यएसत मइओतलअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy Pan jest kierownikiem tej fabry-",
+                     "indpol_sentence":  "चइ पअन यएसत कइएरओवनिकइएम तएय फअबरइ-",
+                     "marpol_sentence":  "चइ पअन यएसत कइएरओवनिकइएम तएय फअबरइ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Jak^ plac§ za.da Pan ?",
+                     "indpol_sentence":  "यअक पलअत्स ज़अ.दअ पअन ?",
+                     "marpol_sentence":  "यअक पलअत्स ज़अ.दअ पअन ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Jak si§ Pan nazywa?",
+                     "indpol_sentence":  "यअक शि पअन नअज़इवअ?",
+                     "marpol_sentence":  "यअक शि पअन नअज़इवअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pan jakich krewnych tu w",
+                     "indpol_sentence":  "चइ मअ पअन यअकइख करएवनइख तउ व",
+                     "marpol_sentence":  "चइ मअ पअन यअकइख करएवनइख तउ व",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Staw si§ Pan tu w poniedzialek o 6s-",
+                     "indpol_sentence":  "सतअव शि पअन तउ व पओनिएजिअलएक ओ 6स-",
+                     "marpol_sentence":  "सतअव शि पअन तउ व पओनिएजिअलएक ओ 6स-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy umie Pan robic na tokarni?",
+                     "indpol_sentence":  "चइ उमइए पअन रओबइत्स नअ तओकअरनि?",
+                     "marpol_sentence":  "चइ उमइए पअन रओबइत्स नअ तओकअरनि?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ma Pan narz^dzia ze soba.",
+                     "indpol_sentence":  "चइ मअ पअन नअझजिअ ज़ए सओबअ.",
+                     "marpol_sentence":  "चइ मअ पअन नअझजिअ ज़ए सओबअ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "pros Pan dozorc^ o komplet pilni-",
+                     "indpol_sentence":  "परओस पअन दओज़ओरत्स ओ कओमपलएत पइलनि-",
+                     "marpol_sentence":  "परओस पअन दओज़ओरत्स ओ कओमपलएत पइलनि-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Poczekaj, az zobacz^ czy ustawilismy",
+                     "indpol_sentence":  "पओचएकअय, अज़ ज़ओबअच चइ उसतअवइलइसमइ",
+                     "marpol_sentence":  "पओचएकअय, अज़ ज़ओबअच चइ उसतअवइलइसमइ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Ta deska jest za dluga, skroc ja.",
+                     "indpol_sentence":  "तअ दएसकअ यएसत ज़अ दलउगअ, सकरओत्स यअ.",
+                     "marpol_sentence":  "तअ दएसकअ यएसत ज़अ दलउगअ, सकरओत्स यअ.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Gdzie jest twoja piika?",
+                     "indpol_sentence":  "गजिए यएसत तवओयअ पइइकअ?",
+                     "marpol_sentence":  "गजिए यएसत तवओयअ पइइकअ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Twoja skrzynia z narz^dziami jest na",
+                     "indpol_sentence":  "तवओयअ सकझइनिअ ज़ नअझजिअमइ यएसत नअ",
+                     "marpol_sentence":  "तवओयअ सकझइनिअ ज़ नअझजिअमइ यएसत नअ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Lakier jest za ge.sty (Lah\u0027k\u0027yair yest",
+                     "indpol_sentence":  "लअकइएर यएसत ज़अ गए.सतइ (लअह\u0027क\u0027इअइर इएसत",
+                     "marpol_sentence":  "लअकइएर यएसत ज़अ गए.सतइ (लअह\u0027क\u0027इअइर इएसत",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy zdaje Pan sobie sprawe.",
+                     "indpol_sentence":  "चइ ज़दअयए पअन सओबइए सपरअवए.",
+                     "marpol_sentence":  "चइ ज़दअयए पअन सओबइए सपरअवए.",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy wie Pan jak unikna.6 eksplozji?",
+                     "indpol_sentence":  "चइ वइए पअन यअक उनिकनअ.6 एकसपलओज़यइ?",
+                     "marpol_sentence":  "चइ वइए पअन यअक उनिकनअ.6 एकसपलओज़यइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Dam Panu robote,, lecz ba.dz Pan za-",
+                     "indpol_sentence":  "दअम पअनउ रओबओतए,, लएच बअ.ज पअन ज़अ-",
+                     "marpol_sentence":  "दअम पअनउ रओबओतए,, लएच बअ.ज पअन ज़अ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Tu jest szufla i oskard; tarn jest dra.g",
+                     "indpol_sentence":  "तउ यएसत शउफलअ इ ओसकअरद; तअरन यएसत दरअ.ग",
+                     "marpol_sentence":  "तउ यएसत शउफलअ इ ओसकअरद; तअरन यएसत दरअ.ग",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Trzonek szufli jest za krotki (T\u0027shaw\u0027-",
+                     "indpol_sentence":  "तझओनएक शउफलइ यएसत ज़अ करओतकइ (त\u0027सहअव\u0027-",
+                     "marpol_sentence":  "तझओनएक शउफलइ यएसत ज़अ करओतकइ (त\u0027सहअव\u0027-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy ten jest dose szeroki?",
+                     "indpol_sentence":  "चइ तएन यएसत दओसए शएरओकइ?",
+                     "marpol_sentence":  "चइ तएन यएसत दओसए शएरओकइ?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy jestes farmerem?",
+                     "indpol_sentence":  "चइ यएसतएस फअरमएरएम?",
+                     "marpol_sentence":  "चइ यएसतएस फअरमएरएम?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Nie, lecz rozumiem sie, na rolnictwie?",
+                     "indpol_sentence":  "निए, लएच रओज़उमइएम शिए, नअ रओलनित्सतवइए?",
+                     "marpol_sentence":  "निए, लएच रओज़उमइएम शिए, नअ रओलनित्सतवइए?",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Jutro mozesz zorac pole z tej stro-",
+                     "indpol_sentence":  "यउतरओ मओज़एश ज़ओरअत्स पओलए ज़ तएय सतरओ-",
+                     "marpol_sentence":  "यउतरओ मओज़एश ज़ओरअत्स पओलए ज़ तएय सतरओ-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Czy moze mi Pan powiedziec, gdzie",
+                     "indpol_sentence":  "चइ मओज़ए मइ पअन पओवइएजिएत्स, गजिए",
+                     "marpol_sentence":  "चइ मओज़ए मइ पअन पओवइएजिएत्स, गजिए",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Pokaz^ ci gdzie wszystko jest (Paw-",
+                     "indpol_sentence":  "पओकअज़ चि गजिए वशइसतकओ यएसत (पअव-",
+                     "marpol_sentence":  "पओकअज़ चि गजिए वशइसतकओ यएसत (पअव-",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Tu jest stajnia dla bydla i koni (Too",
+                     "indpol_sentence":  "तउ यएसत सतअयनिअ दलअ बइदलअ इ कओनि (तओओ",
+                     "marpol_sentence":  "तउ यएसत सतअयनिअ दलअ बइदलअ इ कओनि (तओओ",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 },
+                 {
+                     "polish_sentence":  "Tu jest szopa, gdzie wszelkie rolnicze",
+                     "indpol_sentence":  "तउ यएसत शओपअ, गजिए वशएलकइए रओलनिचए",
+                     "marpol_sentence":  "तउ यएसत शओपअ, गजिए वशएलकइए रओलनिचए",
+                     "marathi_meaning":  "[वाक्य अर्थ प्रलंबित]",
+                     "polish_explanation":  "Zdanie użytkowe do nauki komunikacji; zawiera naturalne słownictwo i strukturę z materiału źródłowego."
+                 }
+             ]
+}
