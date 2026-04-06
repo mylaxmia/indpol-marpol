@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indpol Memory System - Harry Lorayne Method</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            animation: fadeIn 0.8s ease-in;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .principles {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .principles h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+
+        .principles ul {
+            list-style: none;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+
+        .principles li {
+            padding: 8px 12px;
+            background: #f5f5f5;
+            border-left: 4px solid #667eea;
+            font-size: 0.95em;
+        }
+
+        .words-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+
+        @media (max-width: 768px) {
+            .words-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .principles ul {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .word-card {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+            transition: transform 0.3s, box-shadow 0.3s;
+            animation: slideIn 0.6s ease-out;
+        }
+
+        .word-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .word-header {
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 12px;
+            margin-bottom: 15px;
+        }
+
+        .word-title {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 8px;
+        }
+
+        .pronunciation {
+            font-size: 0.9em;
+            color: #999;
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+
+        .indpol-row {
+            background: #f9f9f9;
+            padding: 10px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+            border-left: 4px solid #764ba2;
+        }
+
+        .indpol-label {
+            font-weight: bold;
+            color: #764ba2;
+            font-size: 0.9em;
+        }
+
+        .indpol-text {
+            font-size: 1.2em;
+            color: #333;
+            margin-left: 10px;
+        }
+
+        .meaning-section {
+            margin-bottom: 15px;
+        }
+
+        .meaning-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+            font-size: 0.95em;
+        }
+
+        .meaning-row:last-child {
+            border-bottom: none;
+        }
+
+        .meaning-label {
+            font-weight: bold;
+            color: #667eea;
+            min-width: 100px;
+        }
+
+        .meaning-text {
+            color: #555;
+            text-align: right;
+        }
+
+        .memory-trick {
+            background: linear-gradient(135deg, #fff5e6 0%, #ffe6f0 100%);
+            border-left: 5px solid #ff9800;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+            font-size: 0.95em;
+            line-height: 1.6;
+            color: #333;
+            font-family: 'Courier New', monospace;
+        }
+
+        .memory-trick p {
+            margin-bottom: 10px;
+        }
+
+        .memory-trick em {
+            background: #fff;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-style: normal;
+            color: #ff9800;
+        }
+
+        .word-count {
+            text-align: center;
+            color: #666;
+            font-size: 0.9em;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 2px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .level-badge {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.8em;
+            margin-left: 10px;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        .emoji {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🧠 Indpol Memory System</h1>
+            <p>Harry Lorayne Method for Polish Learning</p>
+            <p style="font-size: 0.95em; margin-top: 10px;">फPolish यादों का सबसे vivid, funny तरीका!</p>
+        </div>
+
+        <div class="principles">
+            <h3>📚 Harry Lorayne के 6 Golden Principles:</h3>
+            <ul>
+                <li><strong>Sound Association</strong> - Sound को Hindi/Indian word से match करो</li>
+                <li><strong>Vivid Visualization</strong> - Crystal clear mental image</li>
+                <li><strong>Ridiculous & Funny</strong> - Absurd जितना बेहतर!</li>
+                <li><strong>Action & Movement</strong> - कुछ हो रहा हो, static नहीं</li>
+                <li><strong>Exaggeration</strong> - बड़ा, weird, over-the-top</li>
+                <li><strong>Indian Context</strong> - Bollywood, daily life, Indian names</li>
+            </ul>
+        </div>
+
+        <div id="words-container" class="words-grid"></div>
+
+        <div class="word-count">
+            <p>✅ Total: 20 A1-A2 Level Words | Level: <span class="level-badge">Beginner</span></p>
+            <p style="margin-top: 10px; font-size: 0.85em;">हर word को एक बार पढ़ो और कभी नहीं भूलोगे! 🎯</p>
+        </div>
+    </div>
+
+    <script>
+        async function loadMemoryWords() {
+            try {
+                const response = await fetch('../data/indpol_memory_system_a1a2.json');
+                const data = await response.json();
+                
+                const container = document.getElementById('words-container');
+                
+                data.words.forEach((word, index) => {
+                    const card = document.createElement('div');
+                    card.className = 'word-card';
+                    card.innerHTML = `
+                        <div class="word-header">
+                            <div class="word-title">${word.polish}</div>
+                            <div class="pronunciation">/${word.pronunciation_guide}/</div>
+                        </div>
+
+                        <div class="indpol-row">
+                            <div>
+                                <span class="indpol-label">🇮🇳 Indpol-Hindi:</span>
+                                <span class="indpol-text">${word.indpol_hindi}</span>
+                            </div>
+                        </div>
+
+                        <div class="indpol-row">
+                            <div>
+                                <span class="indpol-label">🇮🇳 Indpol-Marathi:</span>
+                                <span class="indpol-text">${word.indpol_marathi}</span>
+                            </div>
+                        </div>
+
+                        <div class="meaning-section">
+                            <div class="meaning-row">
+                                <span class="meaning-label">Hindi Meaning:</span>
+                                <span class="meaning-text"><strong>${word.hindi_meaning}</strong></span>
+                            </div>
+                            <div class="meaning-row">
+                                <span class="meaning-label">Marathi Meaning:</span>
+                                <span class="meaning-text"><strong>${word.marathi_meaning}</strong></span>
+                            </div>
+                            <div class="meaning-row">
+                                <span class="meaning-label">English:</span>
+                                <span class="meaning-text"><strong>${word.english}</strong></span>
+                            </div>
+                        </div>
+
+                        <div class="memory-trick">
+                            <pre style="white-space: pre-wrap; font-family: inherit;">${word.memory_trick}</pre>
+                        </div>
+                    `;
+                    container.appendChild(card);
+                });
+
+                // Update word count
+                document.querySelector('.word-count p').textContent = 
+                    `✅ Total: ${data.words.length} ${data.meta.level} Words | Level: ${data.meta.level}`;
+
+            } catch (error) {
+                console.error('Error loading memory words:', error);
+                document.getElementById('words-container').innerHTML = 
+                    '<p style="color: white; padding: 20px;">Error loading data. Please check the file path.</p>';
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', loadMemoryWords);
+    </script>
+</body>
+</html>
