@@ -894,6 +894,24 @@ stopStoryAudioBtn.addEventListener("click", stopStoryAudio);
 // Load database and initialize
 async function loadPolishLexicon() {
   try {
+    // Try loading comprehensive 2000-word dataset first
+    const comprehensiveRes = await fetch('data/indpol_2000_comprehensive.json');
+    if (comprehensiveRes.ok) {
+      const comprehensiveDb = await comprehensiveRes.json();
+      extraWords = comprehensiveDb.data.map((w) => [
+        w.polish,
+        w.indpol_hindi,
+        w.hindi_meaning,
+        w.marathi_meaning,
+        w.pos || 'noun',
+        w.indpol_marathi,
+        w.english_meaning
+      ]);
+      console.log(`✓ Loaded ${extraWords.length} words from comprehensive 2000-word database`);
+      return true;
+    }
+
+    // Fallback to separate Hindi+Marathi databases
     const hindiRes = await fetch('data/indpol_baza/indpol_hindi_words.json');
     const marathiRes = await fetch('data/indpol_baza/indpol_marathi_words.json');
 
@@ -921,6 +939,7 @@ async function loadPolishLexicon() {
       return true;
     }
 
+    // Final fallback
     const response = await fetch('data/polish_lexicon.json');
     const db = await response.json();
 
